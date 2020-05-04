@@ -367,7 +367,7 @@
     "model": "api.country",
     "pk": 27,
     "fields": {
-      "name": "Bolivia (Plurinational State of)",
+      "name": "Bolivia, Plurinational State of",
       "capital": "Sucre",
       "region": "Americas",
       "subregion": "South America",
@@ -479,7 +479,7 @@
     "model": "api.country",
     "pk": 35,
     "fields": {
-      "name": "Virgin Islands (British)",
+      "name": "British Virgin Islands",
       "capital": "Road Town",
       "region": "Americas",
       "subregion": "Caribbean",
@@ -759,7 +759,7 @@
     "model": "api.country",
     "pk": 55,
     "fields": {
-      "name": "Congo (Democratic Republic of the)",
+      "name": "Congo, Democratic Republic of",
       "capital": "Kinshasa",
       "region": "Africa",
       "subregion": "Middle Africa",
@@ -1501,7 +1501,7 @@
     "model": "api.country",
     "pk": 108,
     "fields": {
-      "name": "Iran (Islamic Republic of)",
+      "name": "Iran, Islamic Republic of",
       "capital": "Tehran",
       "region": "Asia",
       "subregion": "Southern Asia",
@@ -1851,7 +1851,7 @@
     "model": "api.country",
     "pk": 133,
     "fields": {
-      "name": "Macedonia (the former Yugoslav Republic of)",
+      "name": "Macedonia",
       "capital": "Skopje",
       "region": "Europe",
       "subregion": "Southern Europe",
@@ -2047,7 +2047,7 @@
     "model": "api.country",
     "pk": 147,
     "fields": {
-      "name": "Moldova (Republic of)",
+      "name": "Moldova",
       "capital": "Chi\u0219in\u0103u",
       "region": "Europe",
       "subregion": "Eastern Europe",
@@ -2313,7 +2313,7 @@
     "model": "api.country",
     "pk": 166,
     "fields": {
-      "name": "Korea (Democratic People's Republic of)",
+      "name": "Korea, Democratic People's Republic of",
       "capital": "Pyongyang",
       "region": "Asia",
       "subregion": "Eastern Asia",
@@ -2943,7 +2943,7 @@
     "model": "api.country",
     "pk": 211,
     "fields": {
-      "name": "Korea (Republic of)",
+      "name": "Korea, Republic of",
       "capital": "Seoul",
       "region": "Asia",
       "subregion": "Eastern Asia",
@@ -3405,7 +3405,7 @@
     "model": "api.country",
     "pk": 244,
     "fields": {
-      "name": "Venezuela (Bolivarian Republic of)",
+      "name": "Venezuela, Bolivarian Republic of",
       "capital": "Caracas",
       "region": "Americas",
       "subregion": "South America",

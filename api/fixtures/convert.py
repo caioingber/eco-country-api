@@ -2,8 +2,8 @@ import json
 
 modified = []
 
-countries = json.load(open('api/countries.json'))
-ecos = json.load(open('api/ecofootprintdata.json'))
+countries = json.load(open('api/fixtures/countries.json'))
+ecos = json.load(open('api/fixtures/ecofootprintdata.json'))
         
 
 for country in countries:

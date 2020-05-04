@@ -10,6 +10,12 @@ class CountryList(generics.ListAPIView):
 
 
 class EcoList(generics.ListAPIView):
-    queryset = Eco.objects.all()
     serializer_class = EcoSerializer
+    
+    def get_queryset(self):
+        queryset = Eco.objects.all()
+        region = self.request.query_params.get('region', None)
+        if region is not None:
+            queryset = queryset.filter(region=region)
+        return queryset
 

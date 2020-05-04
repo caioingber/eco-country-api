@@ -1,14 +1,14 @@
 from rest_framework import serializers
-from models import Eco, Country
+from .models import Eco, Country
 
-class CountrySerializer(serializers.modelSerializer):
+class CountrySerializer(serializers.ModelSerializer):
     class Meta:
-        Model = Country
+        model = Country
         fields = '__all__'
 
-class EcoSerializer(serializers.modelSerializer):
+class EcoSerializer(serializers.ModelSerializer):
     country = CountrySerializer()
 
     class Meta:
-        Model = Eco
+        model = Eco
         fields = '__all__'

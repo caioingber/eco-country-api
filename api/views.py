@@ -1,6 +1,6 @@
 from django.shortcuts import render
-from models import Eco, Country
-from serializers import EcoSerializer, CountrySerializer
+from .models import Eco, Country
+from .serializers import EcoSerializer, CountrySerializer
 from rest_framework import generics
 
 class CountryList(generics.ListAPIView):

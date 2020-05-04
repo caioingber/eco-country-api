@@ -1,0 +1,3502 @@
+[
+  {
+    "model": "api.country",
+    "pk": 1,
+    "fields": {
+      "name": "Afghanistan",
+      "capital": "Kabul",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 27657145,
+      "area": 652230.0,
+      "gini": 27.8,
+      "flag": "https://restcountries.eu/data/afg.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 2,
+    "fields": {
+      "name": "\u00c5land Islands",
+      "capital": "Mariehamn",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 28875,
+      "area": 1580.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/ala.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 3,
+    "fields": {
+      "name": "Albania",
+      "capital": "Tirana",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 2886026,
+      "area": 28748.0,
+      "gini": 34.5,
+      "flag": "https://restcountries.eu/data/alb.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 4,
+    "fields": {
+      "name": "Algeria",
+      "capital": "Algiers",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 40400000,
+      "area": 2381741.0,
+      "gini": 35.3,
+      "flag": "https://restcountries.eu/data/dza.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 5,
+    "fields": {
+      "name": "American Samoa",
+      "capital": "Pago Pago",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 57100,
+      "area": 199.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/asm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 6,
+    "fields": {
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 78014,
+      "area": 468.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/and.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 7,
+    "fields": {
+      "name": "Angola",
+      "capital": "Luanda",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 25868000,
+      "area": 1246700.0,
+      "gini": 58.6,
+      "flag": "https://restcountries.eu/data/ago.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 8,
+    "fields": {
+      "name": "Anguilla",
+      "capital": "The Valley",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 13452,
+      "area": 91.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/aia.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 9,
+    "fields": {
+      "name": "Antarctica",
+      "capital": "",
+      "region": "Polar",
+      "subregion": "",
+      "population": 1000,
+      "area": 14000000.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/ata.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 10,
+    "fields": {
+      "name": "Antigua and Barbuda",
+      "capital": "Saint John's",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 86295,
+      "area": 442.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/atg.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 11,
+    "fields": {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 43590400,
+      "area": 2780400.0,
+      "gini": 44.5,
+      "flag": "https://restcountries.eu/data/arg.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 12,
+    "fields": {
+      "name": "Armenia",
+      "capital": "Yerevan",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 2994400,
+      "area": 29743.0,
+      "gini": 30.9,
+      "flag": "https://restcountries.eu/data/arm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 13,
+    "fields": {
+      "name": "Aruba",
+      "capital": "Oranjestad",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 107394,
+      "area": 180.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/abw.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 14,
+    "fields": {
+      "name": "Australia",
+      "capital": "Canberra",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 24117360,
+      "area": 7692024.0,
+      "gini": 30.5,
+      "flag": "https://restcountries.eu/data/aus.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 15,
+    "fields": {
+      "name": "Austria",
+      "capital": "Vienna",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 8725931,
+      "area": 83871.0,
+      "gini": 26.0,
+      "flag": "https://restcountries.eu/data/aut.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 16,
+    "fields": {
+      "name": "Azerbaijan",
+      "capital": "Baku",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 9730500,
+      "area": 86600.0,
+      "gini": 33.7,
+      "flag": "https://restcountries.eu/data/aze.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 17,
+    "fields": {
+      "name": "Bahamas",
+      "capital": "Nassau",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 378040,
+      "area": 13943.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/bhs.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 18,
+    "fields": {
+      "name": "Bahrain",
+      "capital": "Manama",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 1404900,
+      "area": 765.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/bhr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 19,
+    "fields": {
+      "name": "Bangladesh",
+      "capital": "Dhaka",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 161006790,
+      "area": 147570.0,
+      "gini": 32.1,
+      "flag": "https://restcountries.eu/data/bgd.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 20,
+    "fields": {
+      "name": "Barbados",
+      "capital": "Bridgetown",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 285000,
+      "area": 430.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/brb.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 21,
+    "fields": {
+      "name": "Belarus",
+      "capital": "Minsk",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 9498700,
+      "area": 207600.0,
+      "gini": 26.5,
+      "flag": "https://restcountries.eu/data/blr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 22,
+    "fields": {
+      "name": "Belgium",
+      "capital": "Brussels",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 11319511,
+      "area": 30528.0,
+      "gini": 33.0,
+      "flag": "https://restcountries.eu/data/bel.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 23,
+    "fields": {
+      "name": "Belize",
+      "capital": "Belmopan",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 370300,
+      "area": 22966.0,
+      "gini": 53.1,
+      "flag": "https://restcountries.eu/data/blz.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 24,
+    "fields": {
+      "name": "Benin",
+      "capital": "Porto-Novo",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 10653654,
+      "area": 112622.0,
+      "gini": 38.6,
+      "flag": "https://restcountries.eu/data/ben.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 25,
+    "fields": {
+      "name": "Bermuda",
+      "capital": "Hamilton",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "population": 61954,
+      "area": 54.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/bmu.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 26,
+    "fields": {
+      "name": "Bhutan",
+      "capital": "Thimphu",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 775620,
+      "area": 38394.0,
+      "gini": 38.1,
+      "flag": "https://restcountries.eu/data/btn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 27,
+    "fields": {
+      "name": "Bolivia (Plurinational State of)",
+      "capital": "Sucre",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 10985059,
+      "area": 1098581.0,
+      "gini": 56.3,
+      "flag": "https://restcountries.eu/data/bol.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 28,
+    "fields": {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "capital": "Kralendijk",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 17408,
+      "area": 294.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/bes.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 29,
+    "fields": {
+      "name": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 3531159,
+      "area": 51209.0,
+      "gini": 36.2,
+      "flag": "https://restcountries.eu/data/bih.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 30,
+    "fields": {
+      "name": "Botswana",
+      "capital": "Gaborone",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 2141206,
+      "area": 582000.0,
+      "gini": 61.0,
+      "flag": "https://restcountries.eu/data/bwa.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 31,
+    "fields": {
+      "name": "Bouvet Island",
+      "capital": "",
+      "region": "",
+      "subregion": "",
+      "population": 0,
+      "area": 49.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/bvt.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 32,
+    "fields": {
+      "name": "Brazil",
+      "capital": "Bras\u00edlia",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 206135893,
+      "area": 8515767.0,
+      "gini": 54.7,
+      "flag": "https://restcountries.eu/data/bra.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 33,
+    "fields": {
+      "name": "British Indian Ocean Territory",
+      "capital": "Diego Garcia",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 3000,
+      "area": 60.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/iot.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 34,
+    "fields": {
+      "name": "United States Minor Outlying Islands",
+      "capital": "",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "population": 300,
+      "area": null,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/umi.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 35,
+    "fields": {
+      "name": "Virgin Islands (British)",
+      "capital": "Road Town",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 28514,
+      "area": 151.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/vgb.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 36,
+    "fields": {
+      "name": "Virgin Islands (U.S.)",
+      "capital": "Charlotte Amalie",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 114743,
+      "area": 346.36,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/vir.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 37,
+    "fields": {
+      "name": "Brunei Darussalam",
+      "capital": "Bandar Seri Begawan",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 411900,
+      "area": 5765.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/brn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 38,
+    "fields": {
+      "name": "Bulgaria",
+      "capital": "Sofia",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 7153784,
+      "area": 110879.0,
+      "gini": 28.2,
+      "flag": "https://restcountries.eu/data/bgr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 39,
+    "fields": {
+      "name": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 19034397,
+      "area": 272967.0,
+      "gini": 39.8,
+      "flag": "https://restcountries.eu/data/bfa.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 40,
+    "fields": {
+      "name": "Burundi",
+      "capital": "Bujumbura",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 10114505,
+      "area": 27834.0,
+      "gini": 33.3,
+      "flag": "https://restcountries.eu/data/bdi.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 41,
+    "fields": {
+      "name": "Cambodia",
+      "capital": "Phnom Penh",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 15626444,
+      "area": 181035.0,
+      "gini": 37.9,
+      "flag": "https://restcountries.eu/data/khm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 42,
+    "fields": {
+      "name": "Cameroon",
+      "capital": "Yaound\u00e9",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 22709892,
+      "area": 475442.0,
+      "gini": 38.9,
+      "flag": "https://restcountries.eu/data/cmr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 43,
+    "fields": {
+      "name": "Canada",
+      "capital": "Ottawa",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "population": 36155487,
+      "area": 9984670.0,
+      "gini": 32.6,
+      "flag": "https://restcountries.eu/data/can.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 44,
+    "fields": {
+      "name": "Cabo Verde",
+      "capital": "Praia",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 531239,
+      "area": 4033.0,
+      "gini": 50.5,
+      "flag": "https://restcountries.eu/data/cpv.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 45,
+    "fields": {
+      "name": "Cayman Islands",
+      "capital": "George Town",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 58238,
+      "area": 264.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/cym.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 46,
+    "fields": {
+      "name": "Central African Republic",
+      "capital": "Bangui",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 4998000,
+      "area": 622984.0,
+      "gini": 56.3,
+      "flag": "https://restcountries.eu/data/caf.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 47,
+    "fields": {
+      "name": "Chad",
+      "capital": "N'Djamena",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 14497000,
+      "area": 1284000.0,
+      "gini": 39.8,
+      "flag": "https://restcountries.eu/data/tcd.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 48,
+    "fields": {
+      "name": "Chile",
+      "capital": "Santiago",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 18191900,
+      "area": 756102.0,
+      "gini": 52.1,
+      "flag": "https://restcountries.eu/data/chl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 49,
+    "fields": {
+      "name": "China",
+      "capital": "Beijing",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 1377422166,
+      "area": 9640011.0,
+      "gini": 47.0,
+      "flag": "https://restcountries.eu/data/chn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 50,
+    "fields": {
+      "name": "Christmas Island",
+      "capital": "Flying Fish Cove",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 2072,
+      "area": 135.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/cxr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 51,
+    "fields": {
+      "name": "Cocos (Keeling) Islands",
+      "capital": "West Island",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 550,
+      "area": 14.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/cck.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 52,
+    "fields": {
+      "name": "Colombia",
+      "capital": "Bogot\u00e1",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 48759958,
+      "area": 1141748.0,
+      "gini": 55.9,
+      "flag": "https://restcountries.eu/data/col.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 53,
+    "fields": {
+      "name": "Comoros",
+      "capital": "Moroni",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 806153,
+      "area": 1862.0,
+      "gini": 64.3,
+      "flag": "https://restcountries.eu/data/com.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 54,
+    "fields": {
+      "name": "Congo",
+      "capital": "Brazzaville",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 4741000,
+      "area": 342000.0,
+      "gini": 47.3,
+      "flag": "https://restcountries.eu/data/cog.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 55,
+    "fields": {
+      "name": "Congo (Democratic Republic of the)",
+      "capital": "Kinshasa",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 85026000,
+      "area": 2344858.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/cod.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 56,
+    "fields": {
+      "name": "Cook Islands",
+      "capital": "Avarua",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 18100,
+      "area": 236.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/cok.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 57,
+    "fields": {
+      "name": "Costa Rica",
+      "capital": "San Jos\u00e9",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 4890379,
+      "area": 51100.0,
+      "gini": 50.7,
+      "flag": "https://restcountries.eu/data/cri.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 58,
+    "fields": {
+      "name": "Croatia",
+      "capital": "Zagreb",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 4190669,
+      "area": 56594.0,
+      "gini": 33.7,
+      "flag": "https://restcountries.eu/data/hrv.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 59,
+    "fields": {
+      "name": "Cuba",
+      "capital": "Havana",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 11239004,
+      "area": 109884.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/cub.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 60,
+    "fields": {
+      "name": "Cura\u00e7ao",
+      "capital": "Willemstad",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 154843,
+      "area": 444.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/cuw.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 61,
+    "fields": {
+      "name": "Cyprus",
+      "capital": "Nicosia",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 847000,
+      "area": 9251.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/cyp.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 62,
+    "fields": {
+      "name": "Czech Republic",
+      "capital": "Prague",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 10558524,
+      "area": 78865.0,
+      "gini": 26.0,
+      "flag": "https://restcountries.eu/data/cze.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 63,
+    "fields": {
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5717014,
+      "area": 43094.0,
+      "gini": 24.0,
+      "flag": "https://restcountries.eu/data/dnk.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 64,
+    "fields": {
+      "name": "Djibouti",
+      "capital": "Djibouti",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 900000,
+      "area": 23200.0,
+      "gini": 40.0,
+      "flag": "https://restcountries.eu/data/dji.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 65,
+    "fields": {
+      "name": "Dominica",
+      "capital": "Roseau",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 71293,
+      "area": 751.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/dma.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 66,
+    "fields": {
+      "name": "Dominican Republic",
+      "capital": "Santo Domingo",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 10075045,
+      "area": 48671.0,
+      "gini": 47.2,
+      "flag": "https://restcountries.eu/data/dom.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 67,
+    "fields": {
+      "name": "Ecuador",
+      "capital": "Quito",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 16545799,
+      "area": 276841.0,
+      "gini": 49.3,
+      "flag": "https://restcountries.eu/data/ecu.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 68,
+    "fields": {
+      "name": "Egypt",
+      "capital": "Cairo",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 91290000,
+      "area": 1002450.0,
+      "gini": 30.8,
+      "flag": "https://restcountries.eu/data/egy.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 69,
+    "fields": {
+      "name": "El Salvador",
+      "capital": "San Salvador",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 6520675,
+      "area": 21041.0,
+      "gini": 48.3,
+      "flag": "https://restcountries.eu/data/slv.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 70,
+    "fields": {
+      "name": "Equatorial Guinea",
+      "capital": "Malabo",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 1222442,
+      "area": 28051.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/gnq.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 71,
+    "fields": {
+      "name": "Eritrea",
+      "capital": "Asmara",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 5352000,
+      "area": 117600.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/eri.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 72,
+    "fields": {
+      "name": "Estonia",
+      "capital": "Tallinn",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 1315944,
+      "area": 45227.0,
+      "gini": 36.0,
+      "flag": "https://restcountries.eu/data/est.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 73,
+    "fields": {
+      "name": "Ethiopia",
+      "capital": "Addis Ababa",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 92206005,
+      "area": 1104300.0,
+      "gini": 29.8,
+      "flag": "https://restcountries.eu/data/eth.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 74,
+    "fields": {
+      "name": "Falkland Islands (Malvinas)",
+      "capital": "Stanley",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 2563,
+      "area": 12173.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/flk.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 75,
+    "fields": {
+      "name": "Faroe Islands",
+      "capital": "T\u00f3rshavn",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 49376,
+      "area": 1393.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/fro.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 76,
+    "fields": {
+      "name": "Fiji",
+      "capital": "Suva",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "population": 867000,
+      "area": 18272.0,
+      "gini": 42.8,
+      "flag": "https://restcountries.eu/data/fji.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 77,
+    "fields": {
+      "name": "Finland",
+      "capital": "Helsinki",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5491817,
+      "area": 338424.0,
+      "gini": 26.9,
+      "flag": "https://restcountries.eu/data/fin.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 78,
+    "fields": {
+      "name": "France",
+      "capital": "Paris",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 66710000,
+      "area": 640679.0,
+      "gini": 32.7,
+      "flag": "https://restcountries.eu/data/fra.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 79,
+    "fields": {
+      "name": "French Guiana",
+      "capital": "Cayenne",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 254541,
+      "area": null,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/guf.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 80,
+    "fields": {
+      "name": "French Polynesia",
+      "capital": "Papeet\u0113",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 271800,
+      "area": 4167.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/pyf.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 81,
+    "fields": {
+      "name": "French Southern Territories",
+      "capital": "Port-aux-Fran\u00e7ais",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 140,
+      "area": 7747.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/atf.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 82,
+    "fields": {
+      "name": "Gabon",
+      "capital": "Libreville",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 1802278,
+      "area": 267668.0,
+      "gini": 41.5,
+      "flag": "https://restcountries.eu/data/gab.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 83,
+    "fields": {
+      "name": "Gambia",
+      "capital": "Banjul",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 1882450,
+      "area": 11295.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/gmb.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 84,
+    "fields": {
+      "name": "Georgia",
+      "capital": "Tbilisi",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 3720400,
+      "area": 69700.0,
+      "gini": 41.3,
+      "flag": "https://restcountries.eu/data/geo.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 85,
+    "fields": {
+      "name": "Germany",
+      "capital": "Berlin",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 81770900,
+      "area": 357114.0,
+      "gini": 28.3,
+      "flag": "https://restcountries.eu/data/deu.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 86,
+    "fields": {
+      "name": "Ghana",
+      "capital": "Accra",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 27670174,
+      "area": 238533.0,
+      "gini": 42.8,
+      "flag": "https://restcountries.eu/data/gha.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 87,
+    "fields": {
+      "name": "Gibraltar",
+      "capital": "Gibraltar",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 33140,
+      "area": 6.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/gib.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 88,
+    "fields": {
+      "name": "Greece",
+      "capital": "Athens",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 10858018,
+      "area": 131990.0,
+      "gini": 34.3,
+      "flag": "https://restcountries.eu/data/grc.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 89,
+    "fields": {
+      "name": "Greenland",
+      "capital": "Nuuk",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "population": 55847,
+      "area": 2166086.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/grl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 90,
+    "fields": {
+      "name": "Grenada",
+      "capital": "St. George's",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 103328,
+      "area": 344.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/grd.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 91,
+    "fields": {
+      "name": "Guadeloupe",
+      "capital": "Basse-Terre",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 400132,
+      "area": null,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/glp.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 92,
+    "fields": {
+      "name": "Guam",
+      "capital": "Hag\u00e5t\u00f1a",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 184200,
+      "area": 549.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/gum.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 93,
+    "fields": {
+      "name": "Guatemala",
+      "capital": "Guatemala City",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 16176133,
+      "area": 108889.0,
+      "gini": 55.9,
+      "flag": "https://restcountries.eu/data/gtm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 94,
+    "fields": {
+      "name": "Guernsey",
+      "capital": "St. Peter Port",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 62999,
+      "area": 78.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/ggy.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 95,
+    "fields": {
+      "name": "Guinea",
+      "capital": "Conakry",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 12947000,
+      "area": 245857.0,
+      "gini": 39.4,
+      "flag": "https://restcountries.eu/data/gin.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 96,
+    "fields": {
+      "name": "Guinea-Bissau",
+      "capital": "Bissau",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 1547777,
+      "area": 36125.0,
+      "gini": 35.5,
+      "flag": "https://restcountries.eu/data/gnb.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 97,
+    "fields": {
+      "name": "Guyana",
+      "capital": "Georgetown",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 746900,
+      "area": 214969.0,
+      "gini": 44.5,
+      "flag": "https://restcountries.eu/data/guy.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 98,
+    "fields": {
+      "name": "Haiti",
+      "capital": "Port-au-Prince",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 11078033,
+      "area": 27750.0,
+      "gini": 59.2,
+      "flag": "https://restcountries.eu/data/hti.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 99,
+    "fields": {
+      "name": "Heard Island and McDonald Islands",
+      "capital": "",
+      "region": "",
+      "subregion": "",
+      "population": 0,
+      "area": 412.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/hmd.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 100,
+    "fields": {
+      "name": "Holy See",
+      "capital": "Rome",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 451,
+      "area": 0.44,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/vat.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 101,
+    "fields": {
+      "name": "Honduras",
+      "capital": "Tegucigalpa",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 8576532,
+      "area": 112492.0,
+      "gini": 57.0,
+      "flag": "https://restcountries.eu/data/hnd.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 102,
+    "fields": {
+      "name": "Hong Kong",
+      "capital": "City of Victoria",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 7324300,
+      "area": 1104.0,
+      "gini": 53.3,
+      "flag": "https://restcountries.eu/data/hkg.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 103,
+    "fields": {
+      "name": "Hungary",
+      "capital": "Budapest",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 9823000,
+      "area": 93028.0,
+      "gini": 31.2,
+      "flag": "https://restcountries.eu/data/hun.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 104,
+    "fields": {
+      "name": "Iceland",
+      "capital": "Reykjav\u00edk",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 334300,
+      "area": 103000.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/isl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 105,
+    "fields": {
+      "name": "India",
+      "capital": "New Delhi",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 1295210000,
+      "area": 3287590.0,
+      "gini": 33.4,
+      "flag": "https://restcountries.eu/data/ind.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 106,
+    "fields": {
+      "name": "Indonesia",
+      "capital": "Jakarta",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 258705000,
+      "area": 1904569.0,
+      "gini": 34.0,
+      "flag": "https://restcountries.eu/data/idn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 107,
+    "fields": {
+      "name": "C\u00f4te d'Ivoire",
+      "capital": "Yamoussoukro",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 22671331,
+      "area": 322463.0,
+      "gini": 41.5,
+      "flag": "https://restcountries.eu/data/civ.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 108,
+    "fields": {
+      "name": "Iran (Islamic Republic of)",
+      "capital": "Tehran",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 79369900,
+      "area": 1648195.0,
+      "gini": 38.3,
+      "flag": "https://restcountries.eu/data/irn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 109,
+    "fields": {
+      "name": "Iraq",
+      "capital": "Baghdad",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 37883543,
+      "area": 438317.0,
+      "gini": 30.9,
+      "flag": "https://restcountries.eu/data/irq.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 110,
+    "fields": {
+      "name": "Ireland",
+      "capital": "Dublin",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 6378000,
+      "area": 70273.0,
+      "gini": 34.3,
+      "flag": "https://restcountries.eu/data/irl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 111,
+    "fields": {
+      "name": "Isle of Man",
+      "capital": "Douglas",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 84497,
+      "area": 572.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/imn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 112,
+    "fields": {
+      "name": "Israel",
+      "capital": "Jerusalem",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 8527400,
+      "area": 20770.0,
+      "gini": 39.2,
+      "flag": "https://restcountries.eu/data/isr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 113,
+    "fields": {
+      "name": "Italy",
+      "capital": "Rome",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 60665551,
+      "area": 301336.0,
+      "gini": 36.0,
+      "flag": "https://restcountries.eu/data/ita.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 114,
+    "fields": {
+      "name": "Jamaica",
+      "capital": "Kingston",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 2723246,
+      "area": 10991.0,
+      "gini": 45.5,
+      "flag": "https://restcountries.eu/data/jam.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 115,
+    "fields": {
+      "name": "Japan",
+      "capital": "Tokyo",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 126960000,
+      "area": 377930.0,
+      "gini": 38.1,
+      "flag": "https://restcountries.eu/data/jpn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 116,
+    "fields": {
+      "name": "Jersey",
+      "capital": "Saint Helier",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 100800,
+      "area": 116.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/jey.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 117,
+    "fields": {
+      "name": "Jordan",
+      "capital": "Amman",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 9531712,
+      "area": 89342.0,
+      "gini": 35.4,
+      "flag": "https://restcountries.eu/data/jor.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 118,
+    "fields": {
+      "name": "Kazakhstan",
+      "capital": "Astana",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 17753200,
+      "area": 2724900.0,
+      "gini": 29.0,
+      "flag": "https://restcountries.eu/data/kaz.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 119,
+    "fields": {
+      "name": "Kenya",
+      "capital": "Nairobi",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 47251000,
+      "area": 580367.0,
+      "gini": 47.7,
+      "flag": "https://restcountries.eu/data/ken.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 120,
+    "fields": {
+      "name": "Kiribati",
+      "capital": "South Tarawa",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 113400,
+      "area": 811.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/kir.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 121,
+    "fields": {
+      "name": "Kuwait",
+      "capital": "Kuwait City",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 4183658,
+      "area": 17818.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/kwt.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 122,
+    "fields": {
+      "name": "Kyrgyzstan",
+      "capital": "Bishkek",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 6047800,
+      "area": 199951.0,
+      "gini": 36.2,
+      "flag": "https://restcountries.eu/data/kgz.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 123,
+    "fields": {
+      "name": "Lao People's Democratic Republic",
+      "capital": "Vientiane",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 6492400,
+      "area": 236800.0,
+      "gini": 36.7,
+      "flag": "https://restcountries.eu/data/lao.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 124,
+    "fields": {
+      "name": "Latvia",
+      "capital": "Riga",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 1961600,
+      "area": 64559.0,
+      "gini": 36.6,
+      "flag": "https://restcountries.eu/data/lva.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 125,
+    "fields": {
+      "name": "Lebanon",
+      "capital": "Beirut",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 5988000,
+      "area": 10452.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/lbn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 126,
+    "fields": {
+      "name": "Lesotho",
+      "capital": "Maseru",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 1894194,
+      "area": 30355.0,
+      "gini": 52.5,
+      "flag": "https://restcountries.eu/data/lso.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 127,
+    "fields": {
+      "name": "Liberia",
+      "capital": "Monrovia",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 4615000,
+      "area": 111369.0,
+      "gini": 38.2,
+      "flag": "https://restcountries.eu/data/lbr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 128,
+    "fields": {
+      "name": "Libya",
+      "capital": "Tripoli",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 6385000,
+      "area": 1759540.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/lby.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 129,
+    "fields": {
+      "name": "Liechtenstein",
+      "capital": "Vaduz",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 37623,
+      "area": 160.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/lie.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 130,
+    "fields": {
+      "name": "Lithuania",
+      "capital": "Vilnius",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 2872294,
+      "area": 65300.0,
+      "gini": 37.6,
+      "flag": "https://restcountries.eu/data/ltu.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 131,
+    "fields": {
+      "name": "Luxembourg",
+      "capital": "Luxembourg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 576200,
+      "area": 2586.0,
+      "gini": 30.8,
+      "flag": "https://restcountries.eu/data/lux.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 132,
+    "fields": {
+      "name": "Macao",
+      "capital": "",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 649100,
+      "area": 30.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/mac.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 133,
+    "fields": {
+      "name": "Macedonia (the former Yugoslav Republic of)",
+      "capital": "Skopje",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 2058539,
+      "area": 25713.0,
+      "gini": 43.2,
+      "flag": "https://restcountries.eu/data/mkd.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 134,
+    "fields": {
+      "name": "Madagascar",
+      "capital": "Antananarivo",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 22434363,
+      "area": 587041.0,
+      "gini": 44.1,
+      "flag": "https://restcountries.eu/data/mdg.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 135,
+    "fields": {
+      "name": "Malawi",
+      "capital": "Lilongwe",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 16832910,
+      "area": 118484.0,
+      "gini": 39.0,
+      "flag": "https://restcountries.eu/data/mwi.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 136,
+    "fields": {
+      "name": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 31405416,
+      "area": 330803.0,
+      "gini": 46.2,
+      "flag": "https://restcountries.eu/data/mys.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 137,
+    "fields": {
+      "name": "Maldives",
+      "capital": "Mal\u00e9",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 344023,
+      "area": 300.0,
+      "gini": 37.4,
+      "flag": "https://restcountries.eu/data/mdv.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 138,
+    "fields": {
+      "name": "Mali",
+      "capital": "Bamako",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 18135000,
+      "area": 1240192.0,
+      "gini": 33.0,
+      "flag": "https://restcountries.eu/data/mli.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 139,
+    "fields": {
+      "name": "Malta",
+      "capital": "Valletta",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 425384,
+      "area": 316.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/mlt.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 140,
+    "fields": {
+      "name": "Marshall Islands",
+      "capital": "Majuro",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 54880,
+      "area": 181.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/mhl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 141,
+    "fields": {
+      "name": "Martinique",
+      "capital": "Fort-de-France",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 378243,
+      "area": null,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/mtq.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 142,
+    "fields": {
+      "name": "Mauritania",
+      "capital": "Nouakchott",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 3718678,
+      "area": 1030700.0,
+      "gini": 40.5,
+      "flag": "https://restcountries.eu/data/mrt.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 143,
+    "fields": {
+      "name": "Mauritius",
+      "capital": "Port Louis",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 1262879,
+      "area": 2040.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/mus.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 144,
+    "fields": {
+      "name": "Mayotte",
+      "capital": "Mamoudzou",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 226915,
+      "area": null,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/myt.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 145,
+    "fields": {
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 122273473,
+      "area": 1964375.0,
+      "gini": 47.0,
+      "flag": "https://restcountries.eu/data/mex.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 146,
+    "fields": {
+      "name": "Micronesia (Federated States of)",
+      "capital": "Palikir",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 102800,
+      "area": 702.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/fsm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 147,
+    "fields": {
+      "name": "Moldova (Republic of)",
+      "capital": "Chi\u0219in\u0103u",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 3553100,
+      "area": 33846.0,
+      "gini": 33.0,
+      "flag": "https://restcountries.eu/data/mda.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 148,
+    "fields": {
+      "name": "Monaco",
+      "capital": "Monaco",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 38400,
+      "area": 2.02,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/mco.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 149,
+    "fields": {
+      "name": "Mongolia",
+      "capital": "Ulan Bator",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 3093100,
+      "area": 1564110.0,
+      "gini": 36.5,
+      "flag": "https://restcountries.eu/data/mng.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 150,
+    "fields": {
+      "name": "Montenegro",
+      "capital": "Podgorica",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 621810,
+      "area": 13812.0,
+      "gini": 30.0,
+      "flag": "https://restcountries.eu/data/mne.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 151,
+    "fields": {
+      "name": "Montserrat",
+      "capital": "Plymouth",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 4922,
+      "area": 102.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/msr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 152,
+    "fields": {
+      "name": "Morocco",
+      "capital": "Rabat",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 33337529,
+      "area": 446550.0,
+      "gini": 40.9,
+      "flag": "https://restcountries.eu/data/mar.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 153,
+    "fields": {
+      "name": "Mozambique",
+      "capital": "Maputo",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 26423700,
+      "area": 801590.0,
+      "gini": 45.7,
+      "flag": "https://restcountries.eu/data/moz.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 154,
+    "fields": {
+      "name": "Myanmar",
+      "capital": "Naypyidaw",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 51419420,
+      "area": 676578.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/mmr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 155,
+    "fields": {
+      "name": "Namibia",
+      "capital": "Windhoek",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 2324388,
+      "area": 825615.0,
+      "gini": 63.9,
+      "flag": "https://restcountries.eu/data/nam.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 156,
+    "fields": {
+      "name": "Nauru",
+      "capital": "Yaren",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 10084,
+      "area": 21.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/nru.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 157,
+    "fields": {
+      "name": "Nepal",
+      "capital": "Kathmandu",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 28431500,
+      "area": 147181.0,
+      "gini": 32.8,
+      "flag": "https://restcountries.eu/data/npl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 158,
+    "fields": {
+      "name": "Netherlands",
+      "capital": "Amsterdam",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 17019800,
+      "area": 41850.0,
+      "gini": 30.9,
+      "flag": "https://restcountries.eu/data/nld.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 159,
+    "fields": {
+      "name": "New Caledonia",
+      "capital": "Noum\u00e9a",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "population": 268767,
+      "area": 18575.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/ncl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 160,
+    "fields": {
+      "name": "New Zealand",
+      "capital": "Wellington",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 4697854,
+      "area": 270467.0,
+      "gini": 36.2,
+      "flag": "https://restcountries.eu/data/nzl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 161,
+    "fields": {
+      "name": "Nicaragua",
+      "capital": "Managua",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 6262703,
+      "area": 130373.0,
+      "gini": 40.5,
+      "flag": "https://restcountries.eu/data/nic.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 162,
+    "fields": {
+      "name": "Niger",
+      "capital": "Niamey",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 20715000,
+      "area": 1267000.0,
+      "gini": 34.6,
+      "flag": "https://restcountries.eu/data/ner.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 163,
+    "fields": {
+      "name": "Nigeria",
+      "capital": "Abuja",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 186988000,
+      "area": 923768.0,
+      "gini": 48.8,
+      "flag": "https://restcountries.eu/data/nga.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 164,
+    "fields": {
+      "name": "Niue",
+      "capital": "Alofi",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 1470,
+      "area": 260.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/niu.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 165,
+    "fields": {
+      "name": "Norfolk Island",
+      "capital": "Kingston",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 2302,
+      "area": 36.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/nfk.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 166,
+    "fields": {
+      "name": "Korea (Democratic People's Republic of)",
+      "capital": "Pyongyang",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 25281000,
+      "area": 120538.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/prk.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 167,
+    "fields": {
+      "name": "Northern Mariana Islands",
+      "capital": "Saipan",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 56940,
+      "area": 464.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/mnp.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 168,
+    "fields": {
+      "name": "Norway",
+      "capital": "Oslo",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5223256,
+      "area": 323802.0,
+      "gini": 25.8,
+      "flag": "https://restcountries.eu/data/nor.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 169,
+    "fields": {
+      "name": "Oman",
+      "capital": "Muscat",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 4420133,
+      "area": 309500.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/omn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 170,
+    "fields": {
+      "name": "Pakistan",
+      "capital": "Islamabad",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 194125062,
+      "area": 881912.0,
+      "gini": 30.0,
+      "flag": "https://restcountries.eu/data/pak.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 171,
+    "fields": {
+      "name": "Palau",
+      "capital": "Ngerulmud",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 17950,
+      "area": 459.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/plw.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 172,
+    "fields": {
+      "name": "Palestine, State of",
+      "capital": "Ramallah",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 4682467,
+      "area": null,
+      "gini": 35.5,
+      "flag": "https://restcountries.eu/data/pse.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 173,
+    "fields": {
+      "name": "Panama",
+      "capital": "Panama City",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 3814672,
+      "area": 75417.0,
+      "gini": 51.9,
+      "flag": "https://restcountries.eu/data/pan.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 174,
+    "fields": {
+      "name": "Papua New Guinea",
+      "capital": "Port Moresby",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "population": 8083700,
+      "area": 462840.0,
+      "gini": 50.9,
+      "flag": "https://restcountries.eu/data/png.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 175,
+    "fields": {
+      "name": "Paraguay",
+      "capital": "Asunci\u00f3n",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 6854536,
+      "area": 406752.0,
+      "gini": 52.4,
+      "flag": "https://restcountries.eu/data/pry.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 176,
+    "fields": {
+      "name": "Peru",
+      "capital": "Lima",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 31488700,
+      "area": 1285216.0,
+      "gini": 48.1,
+      "flag": "https://restcountries.eu/data/per.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 177,
+    "fields": {
+      "name": "Philippines",
+      "capital": "Manila",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 103279800,
+      "area": 342353.0,
+      "gini": 43.0,
+      "flag": "https://restcountries.eu/data/phl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 178,
+    "fields": {
+      "name": "Pitcairn",
+      "capital": "Adamstown",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 56,
+      "area": 47.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/pcn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 179,
+    "fields": {
+      "name": "Poland",
+      "capital": "Warsaw",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 38437239,
+      "area": 312679.0,
+      "gini": 34.1,
+      "flag": "https://restcountries.eu/data/pol.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 180,
+    "fields": {
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 10374822,
+      "area": 92090.0,
+      "gini": 38.5,
+      "flag": "https://restcountries.eu/data/prt.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 181,
+    "fields": {
+      "name": "Puerto Rico",
+      "capital": "San Juan",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 3474182,
+      "area": 8870.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/pri.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 182,
+    "fields": {
+      "name": "Qatar",
+      "capital": "Doha",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 2587564,
+      "area": 11586.0,
+      "gini": 41.1,
+      "flag": "https://restcountries.eu/data/qat.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 183,
+    "fields": {
+      "name": "Republic of Kosovo",
+      "capital": "Pristina",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 1733842,
+      "area": 10908.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/kos.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 184,
+    "fields": {
+      "name": "R\u00e9union",
+      "capital": "Saint-Denis",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 840974,
+      "area": null,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/reu.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 185,
+    "fields": {
+      "name": "Romania",
+      "capital": "Bucharest",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 19861408,
+      "area": 238391.0,
+      "gini": 30.0,
+      "flag": "https://restcountries.eu/data/rou.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 186,
+    "fields": {
+      "name": "Russian Federation",
+      "capital": "Moscow",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 146599183,
+      "area": 17124442.0,
+      "gini": 40.1,
+      "flag": "https://restcountries.eu/data/rus.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 187,
+    "fields": {
+      "name": "Rwanda",
+      "capital": "Kigali",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 11553188,
+      "area": 26338.0,
+      "gini": 50.8,
+      "flag": "https://restcountries.eu/data/rwa.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 188,
+    "fields": {
+      "name": "Saint Barth\u00e9lemy",
+      "capital": "Gustavia",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 9417,
+      "area": 21.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/blm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 189,
+    "fields": {
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "capital": "Jamestown",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 4255,
+      "area": null,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/shn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 190,
+    "fields": {
+      "name": "Saint Kitts and Nevis",
+      "capital": "Basseterre",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 46204,
+      "area": 261.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/kna.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 191,
+    "fields": {
+      "name": "Saint Lucia",
+      "capital": "Castries",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 186000,
+      "area": 616.0,
+      "gini": 42.6,
+      "flag": "https://restcountries.eu/data/lca.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 192,
+    "fields": {
+      "name": "Saint Martin (French part)",
+      "capital": "Marigot",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 36979,
+      "area": 53.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/maf.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 193,
+    "fields": {
+      "name": "Saint Pierre and Miquelon",
+      "capital": "Saint-Pierre",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "population": 6069,
+      "area": 242.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/spm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 194,
+    "fields": {
+      "name": "Saint Vincent and the Grenadines",
+      "capital": "Kingstown",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 109991,
+      "area": 389.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/vct.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 195,
+    "fields": {
+      "name": "Samoa",
+      "capital": "Apia",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 194899,
+      "area": 2842.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/wsm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 196,
+    "fields": {
+      "name": "San Marino",
+      "capital": "City of San Marino",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 33005,
+      "area": 61.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/smr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 197,
+    "fields": {
+      "name": "Sao Tome and Principe",
+      "capital": "S\u00e3o Tom\u00e9",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 187356,
+      "area": 964.0,
+      "gini": 50.8,
+      "flag": "https://restcountries.eu/data/stp.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 198,
+    "fields": {
+      "name": "Saudi Arabia",
+      "capital": "Riyadh",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 32248200,
+      "area": 2149690.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/sau.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 199,
+    "fields": {
+      "name": "Senegal",
+      "capital": "Dakar",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 14799859,
+      "area": 196722.0,
+      "gini": 39.2,
+      "flag": "https://restcountries.eu/data/sen.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 200,
+    "fields": {
+      "name": "Serbia",
+      "capital": "Belgrade",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 7076372,
+      "area": 88361.0,
+      "gini": 27.8,
+      "flag": "https://restcountries.eu/data/srb.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 201,
+    "fields": {
+      "name": "Seychelles",
+      "capital": "Victoria",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 91400,
+      "area": 452.0,
+      "gini": 65.8,
+      "flag": "https://restcountries.eu/data/syc.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 202,
+    "fields": {
+      "name": "Sierra Leone",
+      "capital": "Freetown",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 7075641,
+      "area": 71740.0,
+      "gini": 42.5,
+      "flag": "https://restcountries.eu/data/sle.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 203,
+    "fields": {
+      "name": "Singapore",
+      "capital": "Singapore",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 5535000,
+      "area": 710.0,
+      "gini": 48.1,
+      "flag": "https://restcountries.eu/data/sgp.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 204,
+    "fields": {
+      "name": "Sint Maarten (Dutch part)",
+      "capital": "Philipsburg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 38247,
+      "area": 34.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/sxm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 205,
+    "fields": {
+      "name": "Slovakia",
+      "capital": "Bratislava",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 5426252,
+      "area": 49037.0,
+      "gini": 26.0,
+      "flag": "https://restcountries.eu/data/svk.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 206,
+    "fields": {
+      "name": "Slovenia",
+      "capital": "Ljubljana",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 2064188,
+      "area": 20273.0,
+      "gini": 31.2,
+      "flag": "https://restcountries.eu/data/svn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 207,
+    "fields": {
+      "name": "Solomon Islands",
+      "capital": "Honiara",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "population": 642000,
+      "area": 28896.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/slb.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 208,
+    "fields": {
+      "name": "Somalia",
+      "capital": "Mogadishu",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 11079000,
+      "area": 637657.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/som.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 209,
+    "fields": {
+      "name": "South Africa",
+      "capital": "Pretoria",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 55653654,
+      "area": 1221037.0,
+      "gini": 63.1,
+      "flag": "https://restcountries.eu/data/zaf.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 210,
+    "fields": {
+      "name": "South Georgia and the South Sandwich Islands",
+      "capital": "King Edward Point",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 30,
+      "area": null,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/sgs.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 211,
+    "fields": {
+      "name": "Korea (Republic of)",
+      "capital": "Seoul",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 50801405,
+      "area": 100210.0,
+      "gini": 31.3,
+      "flag": "https://restcountries.eu/data/kor.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 212,
+    "fields": {
+      "name": "South Sudan",
+      "capital": "Juba",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 12131000,
+      "area": 619745.0,
+      "gini": 45.5,
+      "flag": "https://restcountries.eu/data/ssd.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 213,
+    "fields": {
+      "name": "Spain",
+      "capital": "Madrid",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 46438422,
+      "area": 505992.0,
+      "gini": 34.7,
+      "flag": "https://restcountries.eu/data/esp.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 214,
+    "fields": {
+      "name": "Sri Lanka",
+      "capital": "Colombo",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 20966000,
+      "area": 65610.0,
+      "gini": 40.3,
+      "flag": "https://restcountries.eu/data/lka.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 215,
+    "fields": {
+      "name": "Sudan",
+      "capital": "Khartoum",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 39598700,
+      "area": 1886068.0,
+      "gini": 35.3,
+      "flag": "https://restcountries.eu/data/sdn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 216,
+    "fields": {
+      "name": "Suriname",
+      "capital": "Paramaribo",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 541638,
+      "area": 163820.0,
+      "gini": 52.9,
+      "flag": "https://restcountries.eu/data/sur.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 217,
+    "fields": {
+      "name": "Svalbard and Jan Mayen",
+      "capital": "Longyearbyen",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 2562,
+      "area": null,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/sjm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 218,
+    "fields": {
+      "name": "Swaziland",
+      "capital": "Lobamba",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 1132657,
+      "area": 17364.0,
+      "gini": 51.5,
+      "flag": "https://restcountries.eu/data/swz.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 219,
+    "fields": {
+      "name": "Sweden",
+      "capital": "Stockholm",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 9894888,
+      "area": 450295.0,
+      "gini": 25.0,
+      "flag": "https://restcountries.eu/data/swe.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 220,
+    "fields": {
+      "name": "Switzerland",
+      "capital": "Bern",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 8341600,
+      "area": 41284.0,
+      "gini": 33.7,
+      "flag": "https://restcountries.eu/data/che.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 221,
+    "fields": {
+      "name": "Syrian Arab Republic",
+      "capital": "Damascus",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 18564000,
+      "area": 185180.0,
+      "gini": 35.8,
+      "flag": "https://restcountries.eu/data/syr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 222,
+    "fields": {
+      "name": "Taiwan",
+      "capital": "Taipei",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 23503349,
+      "area": 36193.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/twn.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 223,
+    "fields": {
+      "name": "Tajikistan",
+      "capital": "Dushanbe",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 8593600,
+      "area": 143100.0,
+      "gini": 30.8,
+      "flag": "https://restcountries.eu/data/tjk.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 224,
+    "fields": {
+      "name": "Tanzania, United Republic of",
+      "capital": "Dodoma",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 55155000,
+      "area": 945087.0,
+      "gini": 37.6,
+      "flag": "https://restcountries.eu/data/tza.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 225,
+    "fields": {
+      "name": "Thailand",
+      "capital": "Bangkok",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 65327652,
+      "area": 513120.0,
+      "gini": 40.0,
+      "flag": "https://restcountries.eu/data/tha.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 226,
+    "fields": {
+      "name": "Timor-Leste",
+      "capital": "Dili",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 1167242,
+      "area": 14874.0,
+      "gini": 31.9,
+      "flag": "https://restcountries.eu/data/tls.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 227,
+    "fields": {
+      "name": "Togo",
+      "capital": "Lom\u00e9",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 7143000,
+      "area": 56785.0,
+      "gini": 34.4,
+      "flag": "https://restcountries.eu/data/tgo.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 228,
+    "fields": {
+      "name": "Tokelau",
+      "capital": "Fakaofo",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 1411,
+      "area": 12.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/tkl.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 229,
+    "fields": {
+      "name": "Tonga",
+      "capital": "Nuku'alofa",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 103252,
+      "area": 747.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/ton.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 230,
+    "fields": {
+      "name": "Trinidad and Tobago",
+      "capital": "Port of Spain",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 1349667,
+      "area": 5130.0,
+      "gini": 40.3,
+      "flag": "https://restcountries.eu/data/tto.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 231,
+    "fields": {
+      "name": "Tunisia",
+      "capital": "Tunis",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 11154400,
+      "area": 163610.0,
+      "gini": 41.4,
+      "flag": "https://restcountries.eu/data/tun.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 232,
+    "fields": {
+      "name": "Turkey",
+      "capital": "Ankara",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 78741053,
+      "area": 783562.0,
+      "gini": 39.0,
+      "flag": "https://restcountries.eu/data/tur.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 233,
+    "fields": {
+      "name": "Turkmenistan",
+      "capital": "Ashgabat",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 4751120,
+      "area": 488100.0,
+      "gini": 40.8,
+      "flag": "https://restcountries.eu/data/tkm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 234,
+    "fields": {
+      "name": "Turks and Caicos Islands",
+      "capital": "Cockburn Town",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 31458,
+      "area": 948.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/tca.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 235,
+    "fields": {
+      "name": "Tuvalu",
+      "capital": "Funafuti",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 10640,
+      "area": 26.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/tuv.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 236,
+    "fields": {
+      "name": "Uganda",
+      "capital": "Kampala",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 33860700,
+      "area": 241550.0,
+      "gini": 44.3,
+      "flag": "https://restcountries.eu/data/uga.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 237,
+    "fields": {
+      "name": "Ukraine",
+      "capital": "Kiev",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 42692393,
+      "area": 603700.0,
+      "gini": 26.4,
+      "flag": "https://restcountries.eu/data/ukr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 238,
+    "fields": {
+      "name": "United Arab Emirates",
+      "capital": "Abu Dhabi",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 9856000,
+      "area": 83600.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/are.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 239,
+    "fields": {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "capital": "London",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 65110000,
+      "area": 242900.0,
+      "gini": 34.0,
+      "flag": "https://restcountries.eu/data/gbr.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 240,
+    "fields": {
+      "name": "United States of America",
+      "capital": "Washington, D.C.",
+      "region": "Americas",
+      "subregion": "Northern America",
+      "population": 323947000,
+      "area": 9629091.0,
+      "gini": 48.0,
+      "flag": "https://restcountries.eu/data/usa.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 241,
+    "fields": {
+      "name": "Uruguay",
+      "capital": "Montevideo",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 3480222,
+      "area": 181034.0,
+      "gini": 39.7,
+      "flag": "https://restcountries.eu/data/ury.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 242,
+    "fields": {
+      "name": "Uzbekistan",
+      "capital": "Tashkent",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 31576400,
+      "area": 447400.0,
+      "gini": 36.7,
+      "flag": "https://restcountries.eu/data/uzb.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 243,
+    "fields": {
+      "name": "Vanuatu",
+      "capital": "Port Vila",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "population": 277500,
+      "area": 12189.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/vut.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 244,
+    "fields": {
+      "name": "Venezuela (Bolivarian Republic of)",
+      "capital": "Caracas",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 31028700,
+      "area": 916445.0,
+      "gini": 44.8,
+      "flag": "https://restcountries.eu/data/ven.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 245,
+    "fields": {
+      "name": "Viet Nam",
+      "capital": "Hanoi",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 92700000,
+      "area": 331212.0,
+      "gini": 35.6,
+      "flag": "https://restcountries.eu/data/vnm.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 246,
+    "fields": {
+      "name": "Wallis and Futuna",
+      "capital": "Mata-Utu",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 11750,
+      "area": 142.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/wlf.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 247,
+    "fields": {
+      "name": "Western Sahara",
+      "capital": "El Aai\u00fan",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 510713,
+      "area": 266000.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/esh.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 248,
+    "fields": {
+      "name": "Yemen",
+      "capital": "Sana'a",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 27478000,
+      "area": 527968.0,
+      "gini": 37.7,
+      "flag": "https://restcountries.eu/data/yem.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 249,
+    "fields": {
+      "name": "Zambia",
+      "capital": "Lusaka",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 15933883,
+      "area": 752612.0,
+      "gini": 54.6,
+      "flag": "https://restcountries.eu/data/zmb.svg"
+    }
+  },
+  {
+    "model": "api.country",
+    "pk": 250,
+    "fields": {
+      "name": "Zimbabwe",
+      "capital": "Harare",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 14240168,
+      "area": 390757.0,
+      "gini": null,
+      "flag": "https://restcountries.eu/data/zwe.svg"
+    }
+  }
+]

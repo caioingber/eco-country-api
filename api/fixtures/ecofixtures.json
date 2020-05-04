@@ -1,0 +1,2818 @@
+[
+  {
+    "model": "api.eco",
+    "pk": 1,
+    "fields": {
+      "country": 1,
+      "region": "Asia",
+      "hdi": 0.46,
+      "gdpPerCapita": "$614.66",
+      "cropFootprint": 0.3,
+      "forestFootprint": 0.08,
+      "carbonFootprint": 0.18,
+      "ecoFootprint": 0.79,
+      "totalBiocapacity": 0.5,
+      "biocapacityReserve": -0.3
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 2,
+    "fields": {
+      "country": 3,
+      "region": "Europe",
+      "hdi": 0.73,
+      "gdpPerCapita": "$4,534.37",
+      "cropFootprint": 0.78,
+      "forestFootprint": 0.25,
+      "carbonFootprint": 0.87,
+      "ecoFootprint": 2.21,
+      "totalBiocapacity": 1.18,
+      "biocapacityReserve": -1.03
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 3,
+    "fields": {
+      "country": 4,
+      "region": "Africa",
+      "hdi": 0.73,
+      "gdpPerCapita": "$5,430.57",
+      "cropFootprint": 0.6,
+      "forestFootprint": 0.17,
+      "carbonFootprint": 1.14,
+      "ecoFootprint": 2.12,
+      "totalBiocapacity": 0.59,
+      "biocapacityReserve": -1.53
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 4,
+    "fields": {
+      "country": 7,
+      "region": "Africa",
+      "hdi": 0.52,
+      "gdpPerCapita": "$4,665.91",
+      "cropFootprint": 0.33,
+      "forestFootprint": 0.12,
+      "carbonFootprint": 0.2,
+      "ecoFootprint": 0.93,
+      "totalBiocapacity": 2.55,
+      "biocapacityReserve": 1.61
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 5,
+    "fields": {
+      "country": 10,
+      "region": "Americas",
+      "hdi": 0.78,
+      "gdpPerCapita": "$13,205.10",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 5.38,
+      "totalBiocapacity": 0.94,
+      "biocapacityReserve": -4.44
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 6,
+    "fields": {
+      "country": 11,
+      "region": "Americas",
+      "hdi": 0.83,
+      "gdpPerCapita": "$13,540.00",
+      "cropFootprint": 0.78,
+      "forestFootprint": 0.29,
+      "carbonFootprint": 1.08,
+      "ecoFootprint": 3.14,
+      "totalBiocapacity": 6.92,
+      "biocapacityReserve": 3.78
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 7,
+    "fields": {
+      "country": 12,
+      "region": "Asia",
+      "hdi": 0.73,
+      "gdpPerCapita": "$3,426.39",
+      "cropFootprint": 0.74,
+      "forestFootprint": 0.34,
+      "carbonFootprint": 0.89,
+      "ecoFootprint": 2.23,
+      "totalBiocapacity": 0.89,
+      "biocapacityReserve": -1.35
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 8,
+    "fields": {
+      "country": 13,
+      "region": "Americas",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 11.88,
+      "totalBiocapacity": 0.57,
+      "biocapacityReserve": -11.31
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 9,
+    "fields": {
+      "country": 14,
+      "region": "Oceania",
+      "hdi": 0.93,
+      "gdpPerCapita": "$66,604.20",
+      "cropFootprint": 2.68,
+      "forestFootprint": 0.89,
+      "carbonFootprint": 4.85,
+      "ecoFootprint": 9.31,
+      "totalBiocapacity": 16.57,
+      "biocapacityReserve": 7.26
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 10,
+    "fields": {
+      "country": 15,
+      "region": "Europe",
+      "hdi": 0.88,
+      "gdpPerCapita": "$51,274.10",
+      "cropFootprint": 0.82,
+      "forestFootprint": 0.63,
+      "carbonFootprint": 4.14,
+      "ecoFootprint": 6.06,
+      "totalBiocapacity": 3.07,
+      "biocapacityReserve": -3
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 11,
+    "fields": {
+      "country": 16,
+      "region": "Asia",
+      "hdi": 0.75,
+      "gdpPerCapita": "$7,106.04",
+      "cropFootprint": 0.66,
+      "forestFootprint": 0.11,
+      "carbonFootprint": 1.25,
+      "ecoFootprint": 2.31,
+      "totalBiocapacity": 0.85,
+      "biocapacityReserve": -1.46
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 12,
+    "fields": {
+      "country": 17,
+      "region": "Americas",
+      "hdi": 0.78,
+      "gdpPerCapita": "$22,647.30",
+      "cropFootprint": 0.97,
+      "forestFootprint": 0.19,
+      "carbonFootprint": 4.46,
+      "ecoFootprint": 6.84,
+      "totalBiocapacity": 9.55,
+      "biocapacityReserve": 2.71
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 13,
+    "fields": {
+      "country": 18,
+      "region": "Asia",
+      "hdi": 0.82,
+      "gdpPerCapita": "$24,299.00",
+      "cropFootprint": 0.52,
+      "forestFootprint": 0.16,
+      "carbonFootprint": 6.19,
+      "ecoFootprint": 7.49,
+      "totalBiocapacity": 0.58,
+      "biocapacityReserve": -6.91
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 14,
+    "fields": {
+      "country": 19,
+      "region": "Asia",
+      "hdi": 0.56,
+      "gdpPerCapita": "$857.50",
+      "cropFootprint": 0.29,
+      "forestFootprint": 0.08,
+      "carbonFootprint": 0.26,
+      "ecoFootprint": 0.72,
+      "totalBiocapacity": 0.38,
+      "biocapacityReserve": -0.35
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 15,
+    "fields": {
+      "country": 20,
+      "region": "Americas",
+      "hdi": 0.79,
+      "gdpPerCapita": "$15,722.80",
+      "cropFootprint": 0.56,
+      "forestFootprint": 0.14,
+      "carbonFootprint": 3.28,
+      "ecoFootprint": 4.48,
+      "totalBiocapacity": 0.19,
+      "biocapacityReserve": -4.29
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 16,
+    "fields": {
+      "country": 21,
+      "region": "Europe",
+      "hdi": 0.8,
+      "gdpPerCapita": "$6,300.45",
+      "cropFootprint": 1.32,
+      "forestFootprint": 0.91,
+      "carbonFootprint": 2.57,
+      "ecoFootprint": 5.09,
+      "totalBiocapacity": 3.64,
+      "biocapacityReserve": -1.45
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 17,
+    "fields": {
+      "country": 22,
+      "region": "Europe",
+      "hdi": 0.89,
+      "gdpPerCapita": "$48,053.30",
+      "cropFootprint": 1.15,
+      "forestFootprint": 0.99,
+      "carbonFootprint": 4.43,
+      "ecoFootprint": 7.44,
+      "totalBiocapacity": 1.19,
+      "biocapacityReserve": -6.25
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 18,
+    "fields": {
+      "country": 24,
+      "region": "Africa",
+      "hdi": 0.48,
+      "gdpPerCapita": "$746.83",
+      "cropFootprint": 0.49,
+      "forestFootprint": 0.26,
+      "carbonFootprint": 0.51,
+      "ecoFootprint": 1.41,
+      "totalBiocapacity": 0.88,
+      "biocapacityReserve": -0.53
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 19,
+    "fields": {
+      "country": 25,
+      "region": "Americas",
+      "hdi": 0,
+      "gdpPerCapita": "$70,626.30",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 5.77,
+      "totalBiocapacity": 0.13,
+      "biocapacityReserve": -5.64
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 20,
+    "fields": {
+      "country": 26,
+      "region": "Asia",
+      "hdi": 0.59,
+      "gdpPerCapita": "$2,395.00",
+      "cropFootprint": 0.5,
+      "forestFootprint": 3.03,
+      "carbonFootprint": 0.63,
+      "ecoFootprint": 4.84,
+      "totalBiocapacity": 5.27,
+      "biocapacityReserve": 0.43
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 22,
+    "fields": {
+      "country": 29,
+      "region": "Europe",
+      "hdi": 0.73,
+      "gdpPerCapita": "$4,708.85",
+      "cropFootprint": 0.63,
+      "forestFootprint": 0.44,
+      "carbonFootprint": 1.74,
+      "ecoFootprint": 3.12,
+      "totalBiocapacity": 1.63,
+      "biocapacityReserve": -1.49
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 23,
+    "fields": {
+      "country": 30,
+      "region": "Africa",
+      "hdi": 0.69,
+      "gdpPerCapita": "$7,743.50",
+      "cropFootprint": 0.3,
+      "forestFootprint": 0.24,
+      "carbonFootprint": 2.36,
+      "ecoFootprint": 3.83,
+      "totalBiocapacity": 3.47,
+      "biocapacityReserve": -0.35
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 24,
+    "fields": {
+      "country": 32,
+      "region": "Americas",
+      "hdi": 0.75,
+      "gdpPerCapita": "$13,237.60",
+      "cropFootprint": 0.62,
+      "forestFootprint": 0.6,
+      "carbonFootprint": 0.91,
+      "ecoFootprint": 3.11,
+      "totalBiocapacity": 9.08,
+      "biocapacityReserve": 5.97
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 26,
+    "fields": {
+      "country": 37,
+      "region": "Asia",
+      "hdi": 0.85,
+      "gdpPerCapita": "$47,097.40",
+      "cropFootprint": 0.31,
+      "forestFootprint": 0.26,
+      "carbonFootprint": 3.24,
+      "ecoFootprint": 4.06,
+      "totalBiocapacity": 2.87,
+      "biocapacityReserve": -1.19
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 27,
+    "fields": {
+      "country": 38,
+      "region": "Europe",
+      "hdi": 0.78,
+      "gdpPerCapita": "$7,615.28",
+      "cropFootprint": 0.6,
+      "forestFootprint": 0.35,
+      "carbonFootprint": 2.08,
+      "ecoFootprint": 3.32,
+      "totalBiocapacity": 2.86,
+      "biocapacityReserve": -0.46
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 28,
+    "fields": {
+      "country": 39,
+      "region": "Africa",
+      "hdi": 0.39,
+      "gdpPerCapita": "$671.07",
+      "cropFootprint": 0.47,
+      "forestFootprint": 0.36,
+      "carbonFootprint": 0.12,
+      "ecoFootprint": 1.21,
+      "totalBiocapacity": 0.98,
+      "biocapacityReserve": -0.22
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 29,
+    "fields": {
+      "country": 40,
+      "region": "Africa",
+      "hdi": 0.39,
+      "gdpPerCapita": "$276.69",
+      "cropFootprint": 0.21,
+      "forestFootprint": 0.45,
+      "carbonFootprint": 0.04,
+      "ecoFootprint": 0.8,
+      "totalBiocapacity": 0.32,
+      "biocapacityReserve": -0.48
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 31,
+    "fields": {
+      "country": 41,
+      "region": "Asia",
+      "hdi": 0.55,
+      "gdpPerCapita": "$877.64",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 1.21,
+      "totalBiocapacity": 1.09,
+      "biocapacityReserve": -0.11
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 32,
+    "fields": {
+      "country": 42,
+      "region": "Africa",
+      "hdi": 0.5,
+      "gdpPerCapita": "$1,271.21",
+      "cropFootprint": 0.54,
+      "forestFootprint": 0.21,
+      "carbonFootprint": 0.19,
+      "ecoFootprint": 1.17,
+      "totalBiocapacity": 1.69,
+      "biocapacityReserve": 0.52
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 33,
+    "fields": {
+      "country": 43,
+      "region": "Americas",
+      "hdi": 0.91,
+      "gdpPerCapita": "$52,145.40",
+      "cropFootprint": 1.46,
+      "forestFootprint": 1.2,
+      "carbonFootprint": 5,
+      "ecoFootprint": 8.17,
+      "totalBiocapacity": 16.01,
+      "biocapacityReserve": 7.83
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 30,
+    "fields": {
+      "country": 44,
+      "region": "Africa",
+      "hdi": 0.64,
+      "gdpPerCapita": "$3,801.45",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 2.52,
+      "totalBiocapacity": 0.62,
+      "biocapacityReserve": -1.9
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 34,
+    "fields": {
+      "country": 45,
+      "region": "Americas",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0.36,
+      "forestFootprint": 1.23,
+      "carbonFootprint": 3.56,
+      "ecoFootprint": 5.65,
+      "totalBiocapacity": 0.32,
+      "biocapacityReserve": -5.33
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 35,
+    "fields": {
+      "country": 46,
+      "region": "Africa",
+      "hdi": 0.37,
+      "gdpPerCapita": "$495.04",
+      "cropFootprint": 0.3,
+      "forestFootprint": 0.26,
+      "carbonFootprint": 0.08,
+      "ecoFootprint": 1.24,
+      "totalBiocapacity": 7.87,
+      "biocapacityReserve": 6.62
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 36,
+    "fields": {
+      "country": 47,
+      "region": "Africa",
+      "hdi": 0.39,
+      "gdpPerCapita": "$1,161.22",
+      "cropFootprint": 0.36,
+      "forestFootprint": 0.27,
+      "carbonFootprint": 0.01,
+      "ecoFootprint": 1.46,
+      "totalBiocapacity": 2.03,
+      "biocapacityReserve": 0.57
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 37,
+    "fields": {
+      "country": 48,
+      "region": "Americas",
+      "hdi": 0.83,
+      "gdpPerCapita": "$14,525.80",
+      "cropFootprint": 0.61,
+      "forestFootprint": 0.99,
+      "carbonFootprint": 2.04,
+      "ecoFootprint": 4.36,
+      "totalBiocapacity": 3.63,
+      "biocapacityReserve": -0.73
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 38,
+    "fields": {
+      "country": 49,
+      "region": "Asia",
+      "hdi": 0.72,
+      "gdpPerCapita": "$5,560.94",
+      "cropFootprint": 0.55,
+      "forestFootprint": 0.19,
+      "carbonFootprint": 2.32,
+      "ecoFootprint": 3.38,
+      "totalBiocapacity": 0.94,
+      "biocapacityReserve": -2.44
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 39,
+    "fields": {
+      "country": 52,
+      "region": "Americas",
+      "hdi": 0.72,
+      "gdpPerCapita": "$7,305.22",
+      "cropFootprint": 0.35,
+      "forestFootprint": 0.16,
+      "carbonFootprint": 0.67,
+      "ecoFootprint": 1.87,
+      "totalBiocapacity": 3.6,
+      "biocapacityReserve": 1.72
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 40,
+    "fields": {
+      "country": 53,
+      "region": "Africa",
+      "hdi": 0.5,
+      "gdpPerCapita": "$860.24",
+      "cropFootprint": 0.33,
+      "forestFootprint": 0.18,
+      "carbonFootprint": 0.25,
+      "ecoFootprint": 1.03,
+      "totalBiocapacity": 0.32,
+      "biocapacityReserve": -0.7
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 43,
+    "fields": {
+      "country": 57,
+      "region": "Americas",
+      "hdi": 0.76,
+      "gdpPerCapita": "$8,979.96",
+      "cropFootprint": 0.4,
+      "forestFootprint": 0.68,
+      "carbonFootprint": 1.37,
+      "ecoFootprint": 2.84,
+      "totalBiocapacity": 1.53,
+      "biocapacityReserve": -1.31
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 45,
+    "fields": {
+      "country": 58,
+      "region": "Europe",
+      "hdi": 0.82,
+      "gdpPerCapita": "$14,522.80",
+      "cropFootprint": 0.74,
+      "forestFootprint": 0.72,
+      "carbonFootprint": 2.21,
+      "ecoFootprint": 3.92,
+      "totalBiocapacity": 2.8,
+      "biocapacityReserve": -1.12
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 46,
+    "fields": {
+      "country": 59,
+      "region": "Americas",
+      "hdi": 0.77,
+      "gdpPerCapita": "$5,175.94",
+      "cropFootprint": 0.48,
+      "forestFootprint": 0.09,
+      "carbonFootprint": 1.23,
+      "ecoFootprint": 1.95,
+      "totalBiocapacity": 0.76,
+      "biocapacityReserve": -1.19
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 47,
+    "fields": {
+      "country": 61,
+      "region": "Europe",
+      "hdi": 0.85,
+      "gdpPerCapita": "$31,454.70",
+      "cropFootprint": 0.77,
+      "forestFootprint": 0.23,
+      "carbonFootprint": 2.94,
+      "ecoFootprint": 4.21,
+      "totalBiocapacity": 0.34,
+      "biocapacityReserve": -3.87
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 48,
+    "fields": {
+      "country": 62,
+      "region": "Europe",
+      "hdi": 0.87,
+      "gdpPerCapita": "$21,676.30",
+      "cropFootprint": 0.62,
+      "forestFootprint": 0.74,
+      "carbonFootprint": 3.42,
+      "ecoFootprint": 5.19,
+      "totalBiocapacity": 2.46,
+      "biocapacityReserve": -2.73
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 49,
+    "fields": {
+      "country": 63,
+      "region": "Europe",
+      "hdi": 0.92,
+      "gdpPerCapita": "$61,413.60",
+      "cropFootprint": 1.18,
+      "forestFootprint": 0.77,
+      "carbonFootprint": 2.6,
+      "ecoFootprint": 5.51,
+      "totalBiocapacity": 4.78,
+      "biocapacityReserve": -0.73
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 50,
+    "fields": {
+      "country": 64,
+      "region": "Africa",
+      "hdi": 0.46,
+      "gdpPerCapita": "$1,433.17",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 2.19,
+      "totalBiocapacity": 0.77,
+      "biocapacityReserve": -1.42
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 51,
+    "fields": {
+      "country": 65,
+      "region": "Americas",
+      "hdi": 0.72,
+      "gdpPerCapita": "$7,088.01",
+      "cropFootprint": 0.64,
+      "forestFootprint": 0.14,
+      "carbonFootprint": 1.47,
+      "ecoFootprint": 2.57,
+      "totalBiocapacity": 1.03,
+      "biocapacityReserve": -1.54
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 52,
+    "fields": {
+      "country": 66,
+      "region": "Americas",
+      "hdi": 0.71,
+      "gdpPerCapita": "$6,085.89",
+      "cropFootprint": 0.35,
+      "forestFootprint": 0.12,
+      "carbonFootprint": 0.86,
+      "ecoFootprint": 1.53,
+      "totalBiocapacity": 0.56,
+      "biocapacityReserve": -0.97
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 53,
+    "fields": {
+      "country": 67,
+      "region": "Americas",
+      "hdi": 0.73,
+      "gdpPerCapita": "$5,192.88",
+      "cropFootprint": 0.3,
+      "forestFootprint": 0.24,
+      "carbonFootprint": 1.08,
+      "ecoFootprint": 2.17,
+      "totalBiocapacity": 2.2,
+      "biocapacityReserve": 0.03
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 54,
+    "fields": {
+      "country": 68,
+      "region": "Africa",
+      "hdi": 0.69,
+      "gdpPerCapita": "$2,930.33",
+      "cropFootprint": 0.68,
+      "forestFootprint": 0.17,
+      "carbonFootprint": 1.02,
+      "ecoFootprint": 2.15,
+      "totalBiocapacity": 0.56,
+      "biocapacityReserve": -1.59
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 55,
+    "fields": {
+      "country": 69,
+      "region": "Americas",
+      "hdi": 0.66,
+      "gdpPerCapita": "$3,696.33",
+      "cropFootprint": 0.44,
+      "forestFootprint": 0.4,
+      "carbonFootprint": 0.84,
+      "ecoFootprint": 2.07,
+      "totalBiocapacity": 0.61,
+      "biocapacityReserve": -1.46
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 56,
+    "fields": {
+      "country": 70,
+      "region": "Africa",
+      "hdi": 0.58,
+      "gdpPerCapita": "$24,064.00",
+      "cropFootprint": 0.27,
+      "forestFootprint": 0.26,
+      "carbonFootprint": 3.17,
+      "ecoFootprint": 3.97,
+      "totalBiocapacity": 4.4,
+      "biocapacityReserve": 0.44
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 57,
+    "fields": {
+      "country": 71,
+      "region": "Africa",
+      "hdi": 0.39,
+      "gdpPerCapita": "$439.73",
+      "cropFootprint": 0.1,
+      "forestFootprint": 0.06,
+      "carbonFootprint": 0.03,
+      "ecoFootprint": 0.42,
+      "totalBiocapacity": 1.3,
+      "biocapacityReserve": 0.88
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 58,
+    "fields": {
+      "country": 72,
+      "region": "Europe",
+      "hdi": 0.85,
+      "gdpPerCapita": "$17,304.40",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 6.86,
+      "totalBiocapacity": 10.53,
+      "biocapacityReserve": 3.67
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 59,
+    "fields": {
+      "country": 73,
+      "region": "Africa",
+      "hdi": 0.43,
+      "gdpPerCapita": "$379.38",
+      "cropFootprint": 0.31,
+      "forestFootprint": 0.46,
+      "carbonFootprint": 0.07,
+      "ecoFootprint": 1.02,
+      "totalBiocapacity": 0.58,
+      "biocapacityReserve": -0.44
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 60,
+    "fields": {
+      "country": 76,
+      "region": "Oceania",
+      "hdi": 0.72,
+      "gdpPerCapita": "$4,201.37",
+      "cropFootprint": 0.55,
+      "forestFootprint": 0.42,
+      "carbonFootprint": 1.06,
+      "ecoFootprint": 2.9,
+      "totalBiocapacity": 2.37,
+      "biocapacityReserve": -0.52
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 61,
+    "fields": {
+      "country": 77,
+      "region": "Europe",
+      "hdi": 0.88,
+      "gdpPerCapita": "$50,960.20",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 5.87,
+      "totalBiocapacity": 13.44,
+      "biocapacityReserve": 7.57
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 62,
+    "fields": {
+      "country": 78,
+      "region": "Europe",
+      "hdi": 0.89,
+      "gdpPerCapita": "$45,430.30",
+      "cropFootprint": 1.23,
+      "forestFootprint": 0.53,
+      "carbonFootprint": 2.71,
+      "ecoFootprint": 5.14,
+      "totalBiocapacity": 3.11,
+      "biocapacityReserve": -2.04
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 63,
+    "fields": {
+      "country": 79,
+      "region": "Americas",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0.07,
+      "forestFootprint": 0.46,
+      "carbonFootprint": 1.58,
+      "ecoFootprint": 2.34,
+      "totalBiocapacity": 111.35,
+      "biocapacityReserve": 109.01
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 64,
+    "fields": {
+      "country": 80,
+      "region": "Oceania",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0.75,
+      "forestFootprint": 0.12,
+      "carbonFootprint": 2.39,
+      "ecoFootprint": 4.73,
+      "totalBiocapacity": 1.37,
+      "biocapacityReserve": -3.36
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 65,
+    "fields": {
+      "country": 82,
+      "region": "Africa",
+      "hdi": 0.67,
+      "gdpPerCapita": "$11,989.00",
+      "cropFootprint": 0.53,
+      "forestFootprint": 0.79,
+      "carbonFootprint": 0.43,
+      "ecoFootprint": 2.02,
+      "totalBiocapacity": 26.31,
+      "biocapacityReserve": 24.29
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 66,
+    "fields": {
+      "country": 83,
+      "region": "Africa",
+      "hdi": 0.44,
+      "gdpPerCapita": "$505.76",
+      "cropFootprint": 0.46,
+      "forestFootprint": 0.2,
+      "carbonFootprint": 0.21,
+      "ecoFootprint": 1.03,
+      "totalBiocapacity": 0.82,
+      "biocapacityReserve": -0.21
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 67,
+    "fields": {
+      "country": 84,
+      "region": "Asia",
+      "hdi": 0.75,
+      "gdpPerCapita": "$3,710.70",
+      "cropFootprint": 0.39,
+      "forestFootprint": 0.1,
+      "carbonFootprint": 0.83,
+      "ecoFootprint": 1.58,
+      "totalBiocapacity": 1.17,
+      "biocapacityReserve": -0.41
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 68,
+    "fields": {
+      "country": 85,
+      "region": "Europe",
+      "hdi": 0.91,
+      "gdpPerCapita": "$46,822.40",
+      "cropFootprint": 1.1,
+      "forestFootprint": 0.48,
+      "carbonFootprint": 3.28,
+      "ecoFootprint": 5.3,
+      "totalBiocapacity": 2.27,
+      "biocapacityReserve": -3.02
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 69,
+    "fields": {
+      "country": 86,
+      "region": "Africa",
+      "hdi": 0.57,
+      "gdpPerCapita": "$1,627.90",
+      "cropFootprint": 0.56,
+      "forestFootprint": 0.65,
+      "carbonFootprint": 0.43,
+      "ecoFootprint": 1.97,
+      "totalBiocapacity": 1.35,
+      "biocapacityReserve": -0.62
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 70,
+    "fields": {
+      "country": 88,
+      "region": "Europe",
+      "hdi": 0.86,
+      "gdpPerCapita": "$25,987.40",
+      "cropFootprint": 1.07,
+      "forestFootprint": 0.24,
+      "carbonFootprint": 2.58,
+      "ecoFootprint": 4.38,
+      "totalBiocapacity": 1.61,
+      "biocapacityReserve": -2.77
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 71,
+    "fields": {
+      "country": 90,
+      "region": "Americas",
+      "hdi": 0.74,
+      "gdpPerCapita": "$7,410.48",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 2.98,
+      "totalBiocapacity": 1.96,
+      "biocapacityReserve": -1.01
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 72,
+    "fields": {
+      "country": 91,
+      "region": "Americas",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0.11,
+      "forestFootprint": 0.16,
+      "carbonFootprint": 2.61,
+      "ecoFootprint": 3.23,
+      "totalBiocapacity": 0.45,
+      "biocapacityReserve": -2.77
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 73,
+    "fields": {
+      "country": 93,
+      "region": "Americas",
+      "hdi": 0.62,
+      "gdpPerCapita": "$3,233.80",
+      "cropFootprint": 0.37,
+      "forestFootprint": 0.58,
+      "carbonFootprint": 0.7,
+      "ecoFootprint": 1.89,
+      "totalBiocapacity": 0.99,
+      "biocapacityReserve": -0.9
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 74,
+    "fields": {
+      "country": 95,
+      "region": "Africa",
+      "hdi": 0.41,
+      "gdpPerCapita": "$459.09",
+      "cropFootprint": 0.39,
+      "forestFootprint": 0.45,
+      "carbonFootprint": 0.16,
+      "ecoFootprint": 1.41,
+      "totalBiocapacity": 2.09,
+      "biocapacityReserve": 0.68
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 75,
+    "fields": {
+      "country": 96,
+      "region": "Africa",
+      "hdi": 0.42,
+      "gdpPerCapita": "$681.25",
+      "cropFootprint": 0.35,
+      "forestFootprint": 0.67,
+      "carbonFootprint": 0.09,
+      "ecoFootprint": 1.53,
+      "totalBiocapacity": 3.03,
+      "biocapacityReserve": 1.49
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 76,
+    "fields": {
+      "country": 97,
+      "region": "Americas",
+      "hdi": 0.63,
+      "gdpPerCapita": "$3,269.46",
+      "cropFootprint": 0.7,
+      "forestFootprint": 0.77,
+      "carbonFootprint": 1.25,
+      "ecoFootprint": 3.07,
+      "totalBiocapacity": 66.58,
+      "biocapacityReserve": 63.51
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 77,
+    "fields": {
+      "country": 98,
+      "region": "Americas",
+      "hdi": 0.48,
+      "gdpPerCapita": "$749.13",
+      "cropFootprint": 0.27,
+      "forestFootprint": 0.1,
+      "carbonFootprint": 0.15,
+      "ecoFootprint": 0.61,
+      "totalBiocapacity": 0.27,
+      "biocapacityReserve": -0.34
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 78,
+    "fields": {
+      "country": 101,
+      "region": "Americas",
+      "hdi": 0.61,
+      "gdpPerCapita": "$2,269.51",
+      "cropFootprint": 0.28,
+      "forestFootprint": 0.5,
+      "carbonFootprint": 0.6,
+      "ecoFootprint": 1.68,
+      "totalBiocapacity": 1.77,
+      "biocapacityReserve": 0.09
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 79,
+    "fields": {
+      "country": 103,
+      "region": "Europe",
+      "hdi": 0.82,
+      "gdpPerCapita": "$13,964.20",
+      "cropFootprint": 0.42,
+      "forestFootprint": 0.36,
+      "carbonFootprint": 1.9,
+      "ecoFootprint": 2.92,
+      "totalBiocapacity": 2.17,
+      "biocapacityReserve": -0.75
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 80,
+    "fields": {
+      "country": 105,
+      "region": "Asia",
+      "hdi": 0.6,
+      "gdpPerCapita": "$1,513.85",
+      "cropFootprint": 0.34,
+      "forestFootprint": 0.14,
+      "carbonFootprint": 0.61,
+      "ecoFootprint": 1.16,
+      "totalBiocapacity": 0.45,
+      "biocapacityReserve": -0.71
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 81,
+    "fields": {
+      "country": 106,
+      "region": "Asia",
+      "hdi": 0.68,
+      "gdpPerCapita": "$3,688.53",
+      "cropFootprint": 0.44,
+      "forestFootprint": 0.2,
+      "carbonFootprint": 0.64,
+      "ecoFootprint": 1.58,
+      "totalBiocapacity": 1.26,
+      "biocapacityReserve": -0.32
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 44,
+    "fields": {
+      "country": 107,
+      "region": "Africa",
+      "hdi": 0,
+      "gdpPerCapita": "$1,016.83",
+      "cropFootprint": 0.51,
+      "forestFootprint": 0.22,
+      "carbonFootprint": 0.26,
+      "ecoFootprint": 1.27,
+      "totalBiocapacity": 1.78,
+      "biocapacityReserve": 0.51
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 83,
+    "fields": {
+      "country": 109,
+      "region": "Asia",
+      "hdi": 0.65,
+      "gdpPerCapita": "$5,848.54",
+      "cropFootprint": 0.43,
+      "forestFootprint": 0.01,
+      "carbonFootprint": 1.36,
+      "ecoFootprint": 1.88,
+      "totalBiocapacity": 0.29,
+      "biocapacityReserve": -1.59
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 84,
+    "fields": {
+      "country": 110,
+      "region": "Europe",
+      "hdi": 0.91,
+      "gdpPerCapita": "$52,853.60",
+      "cropFootprint": 1.08,
+      "forestFootprint": 0.46,
+      "carbonFootprint": 3.22,
+      "ecoFootprint": 5.57,
+      "totalBiocapacity": 3.73,
+      "biocapacityReserve": -1.83
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 85,
+    "fields": {
+      "country": 112,
+      "region": "Asia",
+      "hdi": 0.89,
+      "gdpPerCapita": "$33,718.90",
+      "cropFootprint": 0.89,
+      "forestFootprint": 0.36,
+      "carbonFootprint": 4.59,
+      "ecoFootprint": 6.22,
+      "totalBiocapacity": 0.35,
+      "biocapacityReserve": -5.87
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 86,
+    "fields": {
+      "country": 113,
+      "region": "Europe",
+      "hdi": 0.87,
+      "gdpPerCapita": "$38,412.00",
+      "cropFootprint": 0.91,
+      "forestFootprint": 0.42,
+      "carbonFootprint": 2.77,
+      "ecoFootprint": 4.61,
+      "totalBiocapacity": 1.08,
+      "biocapacityReserve": -3.53
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 87,
+    "fields": {
+      "country": 114,
+      "region": "Americas",
+      "hdi": 0.72,
+      "gdpPerCapita": "$5,226.30",
+      "cropFootprint": 0.41,
+      "forestFootprint": 0.18,
+      "carbonFootprint": 1.09,
+      "ecoFootprint": 1.89,
+      "totalBiocapacity": 0.43,
+      "biocapacityReserve": -1.46
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 88,
+    "fields": {
+      "country": 115,
+      "region": "Asia",
+      "hdi": 0.89,
+      "gdpPerCapita": "$46,201.60",
+      "cropFootprint": 0.53,
+      "forestFootprint": 0.27,
+      "carbonFootprint": 3.69,
+      "ecoFootprint": 5.02,
+      "totalBiocapacity": 0.72,
+      "biocapacityReserve": -4.3
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 89,
+    "fields": {
+      "country": 117,
+      "region": "Asia",
+      "hdi": 0.75,
+      "gdpPerCapita": "$4,615.17",
+      "cropFootprint": 0.54,
+      "forestFootprint": 0.17,
+      "carbonFootprint": 1.09,
+      "ecoFootprint": 2.1,
+      "totalBiocapacity": 0.21,
+      "biocapacityReserve": -1.89
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 90,
+    "fields": {
+      "country": 118,
+      "region": "Asia",
+      "hdi": 0.78,
+      "gdpPerCapita": "$11,278.00",
+      "cropFootprint": 0.58,
+      "forestFootprint": 0.12,
+      "carbonFootprint": 4.59,
+      "ecoFootprint": 5.55,
+      "totalBiocapacity": 3.41,
+      "biocapacityReserve": -2.14
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 91,
+    "fields": {
+      "country": 119,
+      "region": "Africa",
+      "hdi": 0.54,
+      "gdpPerCapita": "$1,062.11",
+      "cropFootprint": 0.25,
+      "forestFootprint": 0.27,
+      "carbonFootprint": 0.2,
+      "ecoFootprint": 1.03,
+      "totalBiocapacity": 0.51,
+      "biocapacityReserve": -0.52
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 94,
+    "fields": {
+      "country": 121,
+      "region": "Asia",
+      "hdi": 0.82,
+      "gdpPerCapita": "$41,830.50",
+      "cropFootprint": 0.55,
+      "forestFootprint": 0.21,
+      "carbonFootprint": 6.89,
+      "ecoFootprint": 8.13,
+      "totalBiocapacity": 0.55,
+      "biocapacityReserve": -7.58
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 95,
+    "fields": {
+      "country": 122,
+      "region": "Asia",
+      "hdi": 0.65,
+      "gdpPerCapita": "$1,116.37",
+      "cropFootprint": 0.59,
+      "forestFootprint": 0.09,
+      "carbonFootprint": 0.95,
+      "ecoFootprint": 1.91,
+      "totalBiocapacity": 1.3,
+      "biocapacityReserve": -0.61
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 96,
+    "fields": {
+      "country": 123,
+      "region": "Asia",
+      "hdi": 0.56,
+      "gdpPerCapita": "$1,236.24",
+      "cropFootprint": 0.57,
+      "forestFootprint": 0.36,
+      "carbonFootprint": 0.09,
+      "ecoFootprint": 1.22,
+      "totalBiocapacity": 1.62,
+      "biocapacityReserve": 0.4
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 97,
+    "fields": {
+      "country": 124,
+      "region": "Europe",
+      "hdi": 0.81,
+      "gdpPerCapita": "$13,732.00",
+      "cropFootprint": 2.28,
+      "forestFootprint": 2.02,
+      "carbonFootprint": 1.66,
+      "ecoFootprint": 6.29,
+      "totalBiocapacity": 9.55,
+      "biocapacityReserve": 3.26
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 98,
+    "fields": {
+      "country": 125,
+      "region": "Asia",
+      "hdi": 0.76,
+      "gdpPerCapita": "$9,143.86",
+      "cropFootprint": 0.67,
+      "forestFootprint": 0.25,
+      "carbonFootprint": 2.52,
+      "ecoFootprint": 3.84,
+      "totalBiocapacity": 0.33,
+      "biocapacityReserve": -3.51
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 99,
+    "fields": {
+      "country": 126,
+      "region": "Africa",
+      "hdi": 0.48,
+      "gdpPerCapita": "$1,338.42",
+      "cropFootprint": 0.22,
+      "forestFootprint": 0.42,
+      "carbonFootprint": 0.51,
+      "ecoFootprint": 1.66,
+      "totalBiocapacity": 0.78,
+      "biocapacityReserve": -0.87
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 100,
+    "fields": {
+      "country": 127,
+      "region": "Africa",
+      "hdi": 0.42,
+      "gdpPerCapita": "$397.38",
+      "cropFootprint": 0.23,
+      "forestFootprint": 0.75,
+      "carbonFootprint": 0.14,
+      "ecoFootprint": 1.21,
+      "totalBiocapacity": 2.57,
+      "biocapacityReserve": 1.35
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 101,
+    "fields": {
+      "country": 128,
+      "region": "Africa",
+      "hdi": 0.74,
+      "gdpPerCapita": "$5,859.43",
+      "cropFootprint": 0.79,
+      "forestFootprint": 0.14,
+      "carbonFootprint": 2.33,
+      "ecoFootprint": 3.69,
+      "totalBiocapacity": 0.7,
+      "biocapacityReserve": -3
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 102,
+    "fields": {
+      "country": 130,
+      "region": "Europe",
+      "hdi": 0.83,
+      "gdpPerCapita": "$14,373.70",
+      "cropFootprint": 1.89,
+      "forestFootprint": 1.28,
+      "carbonFootprint": 2.15,
+      "ecoFootprint": 5.83,
+      "totalBiocapacity": 5.67,
+      "biocapacityReserve": -0.17
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 103,
+    "fields": {
+      "country": 131,
+      "region": "Europe",
+      "hdi": 0.89,
+      "gdpPerCapita": "$114,665.00",
+      "cropFootprint": 1.1,
+      "forestFootprint": 1.03,
+      "carbonFootprint": 12.65,
+      "ecoFootprint": 15.82,
+      "totalBiocapacity": 1.68,
+      "biocapacityReserve": -14.14
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 105,
+    "fields": {
+      "country": 134,
+      "region": "Africa",
+      "hdi": 0.51,
+      "gdpPerCapita": "$456.33",
+      "cropFootprint": 0.27,
+      "forestFootprint": 0.24,
+      "carbonFootprint": 0.07,
+      "ecoFootprint": 0.99,
+      "totalBiocapacity": 2.63,
+      "biocapacityReserve": 1.64
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 106,
+    "fields": {
+      "country": 135,
+      "region": "Africa",
+      "hdi": 0.43,
+      "gdpPerCapita": "$493.84",
+      "cropFootprint": 0.43,
+      "forestFootprint": 0.2,
+      "carbonFootprint": 0.07,
+      "ecoFootprint": 0.81,
+      "totalBiocapacity": 0.66,
+      "biocapacityReserve": -0.15
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 107,
+    "fields": {
+      "country": 136,
+      "region": "Asia",
+      "hdi": 0.77,
+      "gdpPerCapita": "$10,252.60",
+      "cropFootprint": 0.67,
+      "forestFootprint": 0.38,
+      "carbonFootprint": 2.1,
+      "ecoFootprint": 3.71,
+      "totalBiocapacity": 2.41,
+      "biocapacityReserve": -1.3
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 108,
+    "fields": {
+      "country": 138,
+      "region": "Africa",
+      "hdi": 0.41,
+      "gdpPerCapita": "$741.22",
+      "cropFootprint": 0.52,
+      "forestFootprint": 0.17,
+      "carbonFootprint": 0.1,
+      "ecoFootprint": 1.53,
+      "totalBiocapacity": 1.58,
+      "biocapacityReserve": 0.05
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 109,
+    "fields": {
+      "country": 141,
+      "region": "Americas",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0.13,
+      "forestFootprint": 0.12,
+      "carbonFootprint": 1.73,
+      "ecoFootprint": 2.08,
+      "totalBiocapacity": 0.39,
+      "biocapacityReserve": -1.7
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 110,
+    "fields": {
+      "country": 142,
+      "region": "Africa",
+      "hdi": 0.5,
+      "gdpPerCapita": "$1,524.39",
+      "cropFootprint": 0.39,
+      "forestFootprint": 0.21,
+      "carbonFootprint": 0.55,
+      "ecoFootprint": 2.54,
+      "totalBiocapacity": 4.48,
+      "biocapacityReserve": 1.93
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 111,
+    "fields": {
+      "country": 143,
+      "region": "Africa",
+      "hdi": 0.77,
+      "gdpPerCapita": "$8,811.15",
+      "cropFootprint": 0.52,
+      "forestFootprint": 0.18,
+      "carbonFootprint": 1.99,
+      "ecoFootprint": 3.46,
+      "totalBiocapacity": 0.71,
+      "biocapacityReserve": -2.75
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 112,
+    "fields": {
+      "country": 145,
+      "region": "Americas",
+      "hdi": 0.75,
+      "gdpPerCapita": "$10,123.90",
+      "cropFootprint": 0.55,
+      "forestFootprint": 0.25,
+      "carbonFootprint": 1.74,
+      "ecoFootprint": 2.89,
+      "totalBiocapacity": 1.27,
+      "biocapacityReserve": -1.62
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 114,
+    "fields": {
+      "country": 149,
+      "region": "Asia",
+      "hdi": 0.71,
+      "gdpPerCapita": "$3,736.07",
+      "cropFootprint": 0.29,
+      "forestFootprint": 0.17,
+      "carbonFootprint": 2.09,
+      "ecoFootprint": 6.08,
+      "totalBiocapacity": 15.66,
+      "biocapacityReserve": 9.58
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 115,
+    "fields": {
+      "country": 150,
+      "region": "Europe",
+      "hdi": 0.8,
+      "gdpPerCapita": "$7,251.60",
+      "cropFootprint": 0.64,
+      "forestFootprint": 0.62,
+      "carbonFootprint": 2.13,
+      "ecoFootprint": 3.78,
+      "totalBiocapacity": 3.24,
+      "biocapacityReserve": -0.54
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 116,
+    "fields": {
+      "country": 151,
+      "region": "Americas",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 7.78,
+      "totalBiocapacity": 1.36,
+      "biocapacityReserve": -6.42
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 117,
+    "fields": {
+      "country": 152,
+      "region": "Africa",
+      "hdi": 0.62,
+      "gdpPerCapita": "$3,149.43",
+      "cropFootprint": 0.6,
+      "forestFootprint": 0.14,
+      "carbonFootprint": 0.67,
+      "ecoFootprint": 1.68,
+      "totalBiocapacity": 0.71,
+      "biocapacityReserve": -0.96
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 118,
+    "fields": {
+      "country": 153,
+      "region": "Africa",
+      "hdi": 0.41,
+      "gdpPerCapita": "$538.82",
+      "cropFootprint": 0.31,
+      "forestFootprint": 0.29,
+      "carbonFootprint": 0.17,
+      "ecoFootprint": 0.87,
+      "totalBiocapacity": 2.06,
+      "biocapacityReserve": 1.19
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 119,
+    "fields": {
+      "country": 154,
+      "region": "Asia",
+      "hdi": 0.53,
+      "gdpPerCapita": "$1,117.58",
+      "cropFootprint": 0.8,
+      "forestFootprint": 0.32,
+      "carbonFootprint": 0.09,
+      "ecoFootprint": 1.43,
+      "totalBiocapacity": 1.84,
+      "biocapacityReserve": 0.41
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 120,
+    "fields": {
+      "country": 155,
+      "region": "Africa",
+      "hdi": 0.62,
+      "gdpPerCapita": "$5,880.80",
+      "cropFootprint": 0.33,
+      "forestFootprint": 0.17,
+      "carbonFootprint": 1.02,
+      "ecoFootprint": 2.48,
+      "totalBiocapacity": 6.88,
+      "biocapacityReserve": 4.4
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 121,
+    "fields": {
+      "country": 156,
+      "region": "Oceania",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 2.94,
+      "totalBiocapacity": 0.19,
+      "biocapacityReserve": -2.76
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 122,
+    "fields": {
+      "country": 157,
+      "region": "Asia",
+      "hdi": 0.54,
+      "gdpPerCapita": "$700.07",
+      "cropFootprint": 0.43,
+      "forestFootprint": 0.21,
+      "carbonFootprint": 0.16,
+      "ecoFootprint": 0.98,
+      "totalBiocapacity": 0.59,
+      "biocapacityReserve": -0.38
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 123,
+    "fields": {
+      "country": 158,
+      "region": "Europe",
+      "hdi": 0.92,
+      "gdpPerCapita": "$53,589.90",
+      "cropFootprint": 0.76,
+      "forestFootprint": 0.38,
+      "carbonFootprint": 3.23,
+      "ecoFootprint": 5.28,
+      "totalBiocapacity": 1.17,
+      "biocapacityReserve": -4.11
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 124,
+    "fields": {
+      "country": 159,
+      "region": "Oceania",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0.68,
+      "forestFootprint": 0.18,
+      "carbonFootprint": 1.78,
+      "ecoFootprint": 3.58,
+      "totalBiocapacity": 7.67,
+      "biocapacityReserve": 4.09
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 125,
+    "fields": {
+      "country": 160,
+      "region": "Oceania",
+      "hdi": 0.91,
+      "gdpPerCapita": "$37,488.30",
+      "cropFootprint": 0.63,
+      "forestFootprint": 1.08,
+      "carbonFootprint": 2.84,
+      "ecoFootprint": 5.6,
+      "totalBiocapacity": 10.14,
+      "biocapacityReserve": 4.54
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 126,
+    "fields": {
+      "country": 161,
+      "region": "Americas",
+      "hdi": 0.63,
+      "gdpPerCapita": "$1,626.85",
+      "cropFootprint": 0.34,
+      "forestFootprint": 0.42,
+      "carbonFootprint": 0.45,
+      "ecoFootprint": 1.39,
+      "totalBiocapacity": 2.25,
+      "biocapacityReserve": 0.87
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 127,
+    "fields": {
+      "country": 162,
+      "region": "Africa",
+      "hdi": 0.34,
+      "gdpPerCapita": "$410.91",
+      "cropFootprint": 0.67,
+      "forestFootprint": 0.26,
+      "carbonFootprint": 0.1,
+      "ecoFootprint": 1.56,
+      "totalBiocapacity": 1.24,
+      "biocapacityReserve": -0.32
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 128,
+    "fields": {
+      "country": 163,
+      "region": "Africa",
+      "hdi": 0.5,
+      "gdpPerCapita": "$2,612.12",
+      "cropFootprint": 0.53,
+      "forestFootprint": 0.19,
+      "carbonFootprint": 0.21,
+      "ecoFootprint": 1.16,
+      "totalBiocapacity": 0.7,
+      "biocapacityReserve": -0.47
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 129,
+    "fields": {
+      "country": 168,
+      "region": "Europe",
+      "hdi": 0.94,
+      "gdpPerCapita": "$100,172.00",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 4.98,
+      "totalBiocapacity": 8.18,
+      "biocapacityReserve": 3.19
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 130,
+    "fields": {
+      "country": 169,
+      "region": "Asia",
+      "hdi": 0.79,
+      "gdpPerCapita": "$22,622.80",
+      "cropFootprint": 0.57,
+      "forestFootprint": 0.15,
+      "carbonFootprint": 5.8,
+      "ecoFootprint": 7.52,
+      "totalBiocapacity": 1.92,
+      "biocapacityReserve": -5.6
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 131,
+    "fields": {
+      "country": 170,
+      "region": "Asia",
+      "hdi": 0.53,
+      "gdpPerCapita": "$1,218.60",
+      "cropFootprint": 0.27,
+      "forestFootprint": 0.08,
+      "carbonFootprint": 0.38,
+      "ecoFootprint": 0.79,
+      "totalBiocapacity": 0.35,
+      "biocapacityReserve": -0.44
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 132,
+    "fields": {
+      "country": 173,
+      "region": "Americas",
+      "hdi": 0.77,
+      "gdpPerCapita": "$8,410.77",
+      "cropFootprint": 0.36,
+      "forestFootprint": 0.19,
+      "carbonFootprint": 1.44,
+      "ecoFootprint": 2.79,
+      "totalBiocapacity": 2.94,
+      "biocapacityReserve": 0.15
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 133,
+    "fields": {
+      "country": 174,
+      "region": "Oceania",
+      "hdi": 0.5,
+      "gdpPerCapita": "$1,871.21",
+      "cropFootprint": 0.3,
+      "forestFootprint": 0.36,
+      "carbonFootprint": 0.35,
+      "ecoFootprint": 1.91,
+      "totalBiocapacity": 3.92,
+      "biocapacityReserve": 2.01
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 134,
+    "fields": {
+      "country": 175,
+      "region": "Americas",
+      "hdi": 0.67,
+      "gdpPerCapita": "$3,557.31",
+      "cropFootprint": 1.11,
+      "forestFootprint": 0.83,
+      "carbonFootprint": 0.97,
+      "ecoFootprint": 4.16,
+      "totalBiocapacity": 10.52,
+      "biocapacityReserve": 6.36
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 135,
+    "fields": {
+      "country": 176,
+      "region": "Americas",
+      "hdi": 0.73,
+      "gdpPerCapita": "$5,684.73",
+      "cropFootprint": 0.5,
+      "forestFootprint": 0.19,
+      "carbonFootprint": 0.67,
+      "ecoFootprint": 2.28,
+      "totalBiocapacity": 3.97,
+      "biocapacityReserve": 1.69
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 136,
+    "fields": {
+      "country": 177,
+      "region": "Asia",
+      "hdi": 0.66,
+      "gdpPerCapita": "$2,379.44",
+      "cropFootprint": 0.36,
+      "forestFootprint": 0.09,
+      "carbonFootprint": 0.34,
+      "ecoFootprint": 1.1,
+      "totalBiocapacity": 0.54,
+      "biocapacityReserve": -0.56
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 137,
+    "fields": {
+      "country": 179,
+      "region": "Europe",
+      "hdi": 0.84,
+      "gdpPerCapita": "$13,769.50",
+      "cropFootprint": 0.84,
+      "forestFootprint": 0.78,
+      "carbonFootprint": 2.64,
+      "ecoFootprint": 4.44,
+      "totalBiocapacity": 2.08,
+      "biocapacityReserve": -2.36
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 138,
+    "fields": {
+      "country": 180,
+      "region": "Europe",
+      "hdi": 0.83,
+      "gdpPerCapita": "$23,217.30",
+      "cropFootprint": 1.03,
+      "forestFootprint": 0.09,
+      "carbonFootprint": 2.15,
+      "ecoFootprint": 3.88,
+      "totalBiocapacity": 1.51,
+      "biocapacityReserve": -2.37
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 139,
+    "fields": {
+      "country": 182,
+      "region": "Asia",
+      "hdi": 0.85,
+      "gdpPerCapita": "$99,431.50",
+      "cropFootprint": 0.57,
+      "forestFootprint": 0.15,
+      "carbonFootprint": 9.57,
+      "ecoFootprint": 10.8,
+      "totalBiocapacity": 1.24,
+      "biocapacityReserve": -9.56
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 140,
+    "fields": {
+      "country": 184,
+      "region": "Africa",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0.14,
+      "forestFootprint": 0.15,
+      "carbonFootprint": 3.27,
+      "ecoFootprint": 3.65,
+      "totalBiocapacity": 0.18,
+      "biocapacityReserve": -3.47
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 141,
+    "fields": {
+      "country": 185,
+      "region": "Europe",
+      "hdi": 0.79,
+      "gdpPerCapita": "$9,213.94",
+      "cropFootprint": 0.72,
+      "forestFootprint": 0.33,
+      "carbonFootprint": 1.46,
+      "ecoFootprint": 2.71,
+      "totalBiocapacity": 2.32,
+      "biocapacityReserve": -0.39
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 142,
+    "fields": {
+      "country": 186,
+      "region": "Europe",
+      "hdi": 0.79,
+      "gdpPerCapita": "$13,320.20",
+      "cropFootprint": 0.77,
+      "forestFootprint": 0.67,
+      "carbonFootprint": 3.87,
+      "ecoFootprint": 5.69,
+      "totalBiocapacity": 6.79,
+      "biocapacityReserve": 1.1
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 143,
+    "fields": {
+      "country": 187,
+      "region": "Africa",
+      "hdi": 0.48,
+      "gdpPerCapita": "$628.08",
+      "cropFootprint": 0.43,
+      "forestFootprint": 0.25,
+      "carbonFootprint": 0.07,
+      "ecoFootprint": 0.87,
+      "totalBiocapacity": 0.54,
+      "biocapacityReserve": -0.32
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 144,
+    "fields": {
+      "country": 190,
+      "region": "Americas",
+      "hdi": 0.74,
+      "gdpPerCapita": "$12,952.50",
+      "cropFootprint": 0.51,
+      "forestFootprint": 0.09,
+      "carbonFootprint": 3.34,
+      "ecoFootprint": 4.94,
+      "totalBiocapacity": 0.62,
+      "biocapacityReserve": -4.31
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 145,
+    "fields": {
+      "country": 191,
+      "region": "Americas",
+      "hdi": 0.73,
+      "gdpPerCapita": "$7,737.20",
+      "cropFootprint": 0.38,
+      "forestFootprint": 0.17,
+      "carbonFootprint": 1.56,
+      "ecoFootprint": 2.45,
+      "totalBiocapacity": 0.34,
+      "biocapacityReserve": -2.1
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 146,
+    "fields": {
+      "country": 194,
+      "region": "Americas",
+      "hdi": 0.72,
+      "gdpPerCapita": "$6,171.48",
+      "cropFootprint": 0,
+      "forestFootprint": 0,
+      "carbonFootprint": 0,
+      "ecoFootprint": 3.11,
+      "totalBiocapacity": 1.26,
+      "biocapacityReserve": -1.85
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 147,
+    "fields": {
+      "country": 195,
+      "region": "Oceania",
+      "hdi": 0.7,
+      "gdpPerCapita": "$4,067.15",
+      "cropFootprint": 0.97,
+      "forestFootprint": 0.27,
+      "carbonFootprint": 0.96,
+      "ecoFootprint": 2.77,
+      "totalBiocapacity": 1.93,
+      "biocapacityReserve": -0.85
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 148,
+    "fields": {
+      "country": 197,
+      "region": "Africa",
+      "hdi": 0.55,
+      "gdpPerCapita": "$1,384.53",
+      "cropFootprint": 0.36,
+      "forestFootprint": 0.27,
+      "carbonFootprint": 0.37,
+      "ecoFootprint": 1.49,
+      "totalBiocapacity": 0.87,
+      "biocapacityReserve": -0.61
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 149,
+    "fields": {
+      "country": 198,
+      "region": "Asia",
+      "hdi": 0.83,
+      "gdpPerCapita": "$23,593.80",
+      "cropFootprint": 0.74,
+      "forestFootprint": 0.27,
+      "carbonFootprint": 4.21,
+      "ecoFootprint": 5.61,
+      "totalBiocapacity": 0.5,
+      "biocapacityReserve": -5.12
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 150,
+    "fields": {
+      "country": 199,
+      "region": "Africa",
+      "hdi": 0.46,
+      "gdpPerCapita": "$1,079.27",
+      "cropFootprint": 0.34,
+      "forestFootprint": 0.21,
+      "carbonFootprint": 0.3,
+      "ecoFootprint": 1.21,
+      "totalBiocapacity": 1.05,
+      "biocapacityReserve": -0.16
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 151,
+    "fields": {
+      "country": 200,
+      "region": "Europe",
+      "hdi": 0.76,
+      "gdpPerCapita": "$6,426.18",
+      "cropFootprint": 0.49,
+      "forestFootprint": 0.46,
+      "carbonFootprint": 1.66,
+      "ecoFootprint": 2.7,
+      "totalBiocapacity": 1.25,
+      "biocapacityReserve": -1.44
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 152,
+    "fields": {
+      "country": 202,
+      "region": "Africa",
+      "hdi": 0.4,
+      "gdpPerCapita": "$499.89",
+      "cropFootprint": 0.47,
+      "forestFootprint": 0.38,
+      "carbonFootprint": 0.07,
+      "ecoFootprint": 1.24,
+      "totalBiocapacity": 1.24,
+      "biocapacityReserve": 0
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 153,
+    "fields": {
+      "country": 203,
+      "region": "Asia",
+      "hdi": 0.91,
+      "gdpPerCapita": "$53,122.40",
+      "cropFootprint": 0.67,
+      "forestFootprint": 0.91,
+      "carbonFootprint": 5.91,
+      "ecoFootprint": 7.97,
+      "totalBiocapacity": 0.05,
+      "biocapacityReserve": -7.92
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 154,
+    "fields": {
+      "country": 205,
+      "region": "Europe",
+      "hdi": 0.84,
+      "gdpPerCapita": "$18,103.10",
+      "cropFootprint": 0.31,
+      "forestFootprint": 0.72,
+      "carbonFootprint": 2.82,
+      "ecoFootprint": 4.06,
+      "totalBiocapacity": 2.71,
+      "biocapacityReserve": -1.35
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 155,
+    "fields": {
+      "country": 206,
+      "region": "Europe",
+      "hdi": 0.88,
+      "gdpPerCapita": "$25,040.50",
+      "cropFootprint": 0.64,
+      "forestFootprint": 0.65,
+      "carbonFootprint": 4.27,
+      "ecoFootprint": 5.81,
+      "totalBiocapacity": 2.35,
+      "biocapacityReserve": -3.47
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 156,
+    "fields": {
+      "country": 207,
+      "region": "Oceania",
+      "hdi": 0.5,
+      "gdpPerCapita": "$1,647.86",
+      "cropFootprint": 0.47,
+      "forestFootprint": 0.09,
+      "carbonFootprint": 0,
+      "ecoFootprint": 1.29,
+      "totalBiocapacity": 4.36,
+      "biocapacityReserve": 3.08
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 157,
+    "fields": {
+      "country": 208,
+      "region": "Africa",
+      "hdi": 0,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0.16,
+      "forestFootprint": 0.52,
+      "carbonFootprint": 0.07,
+      "ecoFootprint": 1.24,
+      "totalBiocapacity": 1.27,
+      "biocapacityReserve": 0.03
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 158,
+    "fields": {
+      "country": 209,
+      "region": "Africa",
+      "hdi": 0.66,
+      "gdpPerCapita": "$8,089.87",
+      "cropFootprint": 0.44,
+      "forestFootprint": 0.29,
+      "carbonFootprint": 2.34,
+      "ecoFootprint": 3.31,
+      "totalBiocapacity": 1.15,
+      "biocapacityReserve": -2.16
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 159,
+    "fields": {
+      "country": 213,
+      "region": "Europe",
+      "hdi": 0.87,
+      "gdpPerCapita": "$32,008.70",
+      "cropFootprint": 0.78,
+      "forestFootprint": 0.17,
+      "carbonFootprint": 2.22,
+      "ecoFootprint": 3.67,
+      "totalBiocapacity": 1.25,
+      "biocapacityReserve": -2.42
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 160,
+    "fields": {
+      "country": 214,
+      "region": "Asia",
+      "hdi": 0.75,
+      "gdpPerCapita": "$2,880.03",
+      "cropFootprint": 0.31,
+      "forestFootprint": 0.16,
+      "carbonFootprint": 0.52,
+      "ecoFootprint": 1.32,
+      "totalBiocapacity": 0.44,
+      "biocapacityReserve": -0.88
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 161,
+    "fields": {
+      "country": 216,
+      "region": "Americas",
+      "hdi": 0.71,
+      "gdpPerCapita": "$8,190.70",
+      "cropFootprint": 0.43,
+      "forestFootprint": 0.52,
+      "carbonFootprint": 3.01,
+      "ecoFootprint": 4.25,
+      "totalBiocapacity": 89.33,
+      "biocapacityReserve": 85.08
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 162,
+    "fields": {
+      "country": 218,
+      "region": "Africa",
+      "hdi": 0.53,
+      "gdpPerCapita": "$4,657.48",
+      "cropFootprint": 0.35,
+      "forestFootprint": 0.52,
+      "carbonFootprint": 0.67,
+      "ecoFootprint": 2.01,
+      "totalBiocapacity": 0.88,
+      "biocapacityReserve": -1.14
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 163,
+    "fields": {
+      "country": 219,
+      "region": "Europe",
+      "hdi": 0.9,
+      "gdpPerCapita": "$59,381.90",
+      "cropFootprint": 1.47,
+      "forestFootprint": 1.3,
+      "carbonFootprint": 3.88,
+      "ecoFootprint": 7.25,
+      "totalBiocapacity": 10.62,
+      "biocapacityReserve": 3.38
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 164,
+    "fields": {
+      "country": 220,
+      "region": "Europe",
+      "hdi": 0.93,
+      "gdpPerCapita": "$88,506.20",
+      "cropFootprint": 0.75,
+      "forestFootprint": 0.38,
+      "carbonFootprint": 4.26,
+      "ecoFootprint": 5.79,
+      "totalBiocapacity": 1.3,
+      "biocapacityReserve": -4.48
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 165,
+    "fields": {
+      "country": 221,
+      "region": "Asia",
+      "hdi": 0.62,
+      "gdpPerCapita": 0,
+      "cropFootprint": 0.52,
+      "forestFootprint": 0.04,
+      "carbonFootprint": 0.81,
+      "ecoFootprint": 1.51,
+      "totalBiocapacity": 0.6,
+      "biocapacityReserve": -0.91
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 166,
+    "fields": {
+      "country": 223,
+      "region": "Asia",
+      "hdi": 0.62,
+      "gdpPerCapita": "$836.17",
+      "cropFootprint": 0.46,
+      "forestFootprint": 0.1,
+      "carbonFootprint": 0.13,
+      "ecoFootprint": 0.91,
+      "totalBiocapacity": 0.53,
+      "biocapacityReserve": -0.38
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 167,
+    "fields": {
+      "country": 224,
+      "region": "Africa",
+      "hdi": 0.51,
+      "gdpPerCapita": "$765.33",
+      "cropFootprint": 0.44,
+      "forestFootprint": 0.23,
+      "carbonFootprint": 0.17,
+      "ecoFootprint": 1.32,
+      "totalBiocapacity": 1.08,
+      "biocapacityReserve": -0.24
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 168,
+    "fields": {
+      "country": 225,
+      "region": "Asia",
+      "hdi": 0.72,
+      "gdpPerCapita": "$5,479.29",
+      "cropFootprint": 0.67,
+      "forestFootprint": 0.24,
+      "carbonFootprint": 1.54,
+      "ecoFootprint": 2.66,
+      "totalBiocapacity": 1.24,
+      "biocapacityReserve": -1.42
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 169,
+    "fields": {
+      "country": 226,
+      "region": "Asia",
+      "hdi": 0.6,
+      "gdpPerCapita": "$5,167.86",
+      "cropFootprint": 0.25,
+      "forestFootprint": 0.04,
+      "carbonFootprint": 0.06,
+      "ecoFootprint": 0.48,
+      "totalBiocapacity": 1.78,
+      "biocapacityReserve": 1.3
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 170,
+    "fields": {
+      "country": 227,
+      "region": "Africa",
+      "hdi": 0.47,
+      "gdpPerCapita": "$580.86",
+      "cropFootprint": 0.34,
+      "forestFootprint": 0.27,
+      "carbonFootprint": 0.31,
+      "ecoFootprint": 1.13,
+      "totalBiocapacity": 0.53,
+      "biocapacityReserve": -0.6
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 171,
+    "fields": {
+      "country": 229,
+      "region": "Oceania",
+      "hdi": 0.72,
+      "gdpPerCapita": "$4,330.90",
+      "cropFootprint": 1.19,
+      "forestFootprint": 0.14,
+      "carbonFootprint": 0.88,
+      "ecoFootprint": 2.7,
+      "totalBiocapacity": 1.48,
+      "biocapacityReserve": -1.22
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 172,
+    "fields": {
+      "country": 230,
+      "region": "Americas",
+      "hdi": 0.77,
+      "gdpPerCapita": "$18,310.80",
+      "cropFootprint": 0.46,
+      "forestFootprint": 0.27,
+      "carbonFootprint": 6.89,
+      "ecoFootprint": 7.92,
+      "totalBiocapacity": 1.56,
+      "biocapacityReserve": -6.36
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 173,
+    "fields": {
+      "country": 231,
+      "region": "Africa",
+      "hdi": 0.72,
+      "gdpPerCapita": "$4,305.07",
+      "cropFootprint": 0.76,
+      "forestFootprint": 0.28,
+      "carbonFootprint": 1.11,
+      "ecoFootprint": 2.34,
+      "totalBiocapacity": 0.93,
+      "biocapacityReserve": -1.4
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 174,
+    "fields": {
+      "country": 232,
+      "region": "Asia",
+      "hdi": 0.76,
+      "gdpPerCapita": "$10,437.70",
+      "cropFootprint": 0.87,
+      "forestFootprint": 0.34,
+      "carbonFootprint": 1.92,
+      "ecoFootprint": 3.33,
+      "totalBiocapacity": 1.52,
+      "biocapacityReserve": -1.81
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 175,
+    "fields": {
+      "country": 233,
+      "region": "Asia",
+      "hdi": 0.68,
+      "gdpPerCapita": "$5,290.14",
+      "cropFootprint": 0.73,
+      "forestFootprint": 0.08,
+      "carbonFootprint": 4.13,
+      "ecoFootprint": 5.47,
+      "totalBiocapacity": 2.79,
+      "biocapacityReserve": -2.68
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 176,
+    "fields": {
+      "country": 236,
+      "region": "Africa",
+      "hdi": 0.48,
+      "gdpPerCapita": "$601.35",
+      "cropFootprint": 0.34,
+      "forestFootprint": 0.54,
+      "carbonFootprint": 0.08,
+      "ecoFootprint": 1.24,
+      "totalBiocapacity": 0.59,
+      "biocapacityReserve": -0.66
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 177,
+    "fields": {
+      "country": 237,
+      "region": "Europe",
+      "hdi": 0.74,
+      "gdpPerCapita": "$3,589.63",
+      "cropFootprint": 0.62,
+      "forestFootprint": 0.16,
+      "carbonFootprint": 1.92,
+      "ecoFootprint": 2.84,
+      "totalBiocapacity": 2.27,
+      "biocapacityReserve": -0.58
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 179,
+    "fields": {
+      "country": 238,
+      "region": "Asia",
+      "hdi": 0.83,
+      "gdpPerCapita": "$40,817.40",
+      "cropFootprint": 0.8,
+      "forestFootprint": 0.38,
+      "carbonFootprint": 6.37,
+      "ecoFootprint": 7.93,
+      "totalBiocapacity": 0.56,
+      "biocapacityReserve": -7.37
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 180,
+    "fields": {
+      "country": 240,
+      "region": "Americas",
+      "hdi": 0.91,
+      "gdpPerCapita": "$49,725.00",
+      "cropFootprint": 1.13,
+      "forestFootprint": 0.67,
+      "carbonFootprint": 5.9,
+      "ecoFootprint": 8.22,
+      "totalBiocapacity": 3.76,
+      "biocapacityReserve": -4.46
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 181,
+    "fields": {
+      "country": 241,
+      "region": "Americas",
+      "hdi": 0.79,
+      "gdpPerCapita": "$14,238.10",
+      "cropFootprint": 0.19,
+      "forestFootprint": 0.55,
+      "carbonFootprint": 0.98,
+      "ecoFootprint": 2.91,
+      "totalBiocapacity": 10.32,
+      "biocapacityReserve": 7.41
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 182,
+    "fields": {
+      "country": 242,
+      "region": "Asia",
+      "hdi": 0.67,
+      "gdpPerCapita": "$1,560.85",
+      "cropFootprint": 0.62,
+      "forestFootprint": 0.08,
+      "carbonFootprint": 1.41,
+      "ecoFootprint": 2.32,
+      "totalBiocapacity": 0.92,
+      "biocapacityReserve": -1.4
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 184,
+    "fields": {
+      "country": 245,
+      "region": "Asia",
+      "hdi": 0.66,
+      "gdpPerCapita": "$1,532.31",
+      "cropFootprint": 0.5,
+      "forestFootprint": 0.19,
+      "carbonFootprint": 0.79,
+      "ecoFootprint": 1.65,
+      "totalBiocapacity": 1,
+      "biocapacityReserve": -0.65
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 186,
+    "fields": {
+      "country": 248,
+      "region": "Asia",
+      "hdi": 0.5,
+      "gdpPerCapita": "$1,302.30",
+      "cropFootprint": 0.34,
+      "forestFootprint": 0.04,
+      "carbonFootprint": 0.42,
+      "ecoFootprint": 1.03,
+      "totalBiocapacity": 0.5,
+      "biocapacityReserve": -0.53
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 187,
+    "fields": {
+      "country": 249,
+      "region": "Africa",
+      "hdi": 0.58,
+      "gdpPerCapita": "$1,740.64",
+      "cropFootprint": 0.19,
+      "forestFootprint": 0.33,
+      "carbonFootprint": 0.24,
+      "ecoFootprint": 0.99,
+      "totalBiocapacity": 2.23,
+      "biocapacityReserve": 1.24
+    }
+  },
+  {
+    "model": "api.eco",
+    "pk": 188,
+    "fields": {
+      "country": 250,
+      "region": "Africa",
+      "hdi": 0.49,
+      "gdpPerCapita": "$865.91",
+      "cropFootprint": 0.2,
+      "forestFootprint": 0.29,
+      "carbonFootprint": 0.53,
+      "ecoFootprint": 1.37,
+      "totalBiocapacity": 0.62,
+      "biocapacityReserve": -0.75
+    }
+  }
+]

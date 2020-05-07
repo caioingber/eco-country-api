@@ -15,6 +15,7 @@ django-filter = "*"
 gunicorn = "*"
 dj-database-url = "*"
 django-heroku = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.8"

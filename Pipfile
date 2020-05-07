@@ -12,6 +12,8 @@ djangorestframework = "*"
 requests = "*"
 django-cors-headers = "*"
 django-filter = "*"
+gunicorn = "*"
+dj-database-url = "*"
 
 [requires]
 python_version = "3.8"

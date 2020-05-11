@@ -93,15 +93,15 @@ WSGI_APPLICATION = 'eco_django.wsgi.application'
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
 DATABASES = {
-    # 'default': {
-    #     'ENGINE': 'django.db.backends.postgresql',
-    #     'NAME': 'ecocountry',
-    #     'USER': 'ecouser',
-    #     'PASSWORD': 'eco',
-    #     'HOST': 'localhost'
-    # }
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'ecocountry',
+        'USER': 'ecouser',
+        'PASSWORD': 'eco',
+        'HOST': 'localhost'
+    }
 }
-DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=True)
+# DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=True)
 
 
 
@@ -148,4 +148,3 @@ STATIC_ROOT = os.path.join(PROJECT_ROOT, 'static')
 
 
 django_heroku.settings(locals())
-del DATABASES['default']['OPTIONS']['sslmode']
